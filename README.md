@@ -2,7 +2,7 @@
  
 Audio: https://www.dropbox.com/sh/kdk6avmpcbt82qz/AAB0czyW1CQ4wZ82_q3yfUBSa?dl=0
 
-Various saw, square and triangle sounds recorded with the Xpander and an Audient ID22.
+Various saw, square and triangle sounds recorded with the Xpander MOTU Ultralite MKIII and a Ramsa Console.
 
 -   **Waves**: 80
 -   **Patches**: 50+
@@ -18,13 +18,6 @@ Various saw, square and triangle sounds recorded with the Xpander and an Audient
 2. Copy the "EXS" folder to Music/Audio Music Apps/Sampler Instruments
 3. Open EXS24 and select "Refresh Library" in the Library pane
 4. Select patches under "User Patches" in the library panel 
-
-**Logic Smart Controls**
-
-1. Copy the folder "Logic Stacks" to Music/Audio Music Apps/Patches/Instrument
-2. In Logic create a new "Stack Track" and select "Summing"
-3. Select patches under "User Patches" in the library panel
-4. Open Smart Controls to edit the patch
 
 **Kontakt**
 
