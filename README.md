@@ -20,12 +20,7 @@ Various saw, square and triangle sounds recorded with the Xpander MOTU Ultralite
 4. Select patches under "User Patches" in the library panel 
 
 
-****Kontakt****
 
-1.  Open Kontakt
-2. From the file menu select "Batch resave". Proceed with yes
-3. Open the folder with the .nki files
-4. Once the batch resave process has completed open a sample using the file browser
 
 # Help out
   
