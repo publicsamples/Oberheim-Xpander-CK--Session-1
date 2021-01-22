@@ -1,0 +1,211 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Crummy Saw.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+
+
+<control>
+default_path=../Session 1/Saws/saw lp2p res/
+
+label_cc15=Bass Osc Vol
+label_cc16=Bass Osc Sel
+label_cc17=Osc 1 Vol
+label_cc18=Osc 1 Sel
+label_cc19=Osc 2 Vol
+label_cc20=Osc 2 Sel
+label_cc21=Osc 3 Vol
+label_cc22=Osc 3 Sel
+label_cc25=Unison
+label_cc26=Width
+label_cc27=Detune
+label_cc28=Extra detune amt
+label_cc29=Extra detune time
+label_cc100=Attack time
+label_cc101=Hold time
+label_cc102=Decay time
+label_cc103=Sustain level
+label_cc104=Release time
+label_cc106=Env soften
+label_cc108=Legato switch
+label_cc109=Porta time
+label_cc111=Vibrato to pitch
+label_cc112=Vibrato speed
+label_cc113=Vibrato to cutoff
+label_cc114=Vibrato to volume
+label_cc115=Vibrato delay
+label_cc116=Vibrato fade
+label_cc117=Unsteadiness
+label_cc120=Filter cutoff
+label_cc121=Resonance
+label_cc124=Veltrack
+label_cc125=Pluck
+label_cc126=Filter attack
+label_cc127=Filter decay
+
+set_cc15=100
+set_cc16=15
+set_cc17=127
+set_cc18=63
+set_cc19=100
+set_cc20=15
+set_cc21=100
+set_cc22=44
+set_cc26=63
+set_cc27=63
+set_cc29=16
+set_cc102=63
+set_cc103=51
+set_cc104=31
+set_cc109=31
+set_cc112=40
+set_cc120=127
+set_cc127=40
+
+set_cc26=63
+set_cc27=63
+set_cc29=16
+set_cc104=31
+
+<global>
+bend_down=-2400
+bend_up=2400
+off_mode=normal
+loop_mode=continuous
+offset=10000
+offset_random=1000
+
+//AHDSR
+ampeg_attack=0.002
+ampeg_sustain=0
+ampeg_release=0.002
+ampeg_attack_oncc100=0.5
+ampeg_hold_oncc101=1
+ampeg_decay_oncc102=5
+ampeg_sustain_oncc103=100
+ampeg_release_oncc104=2
+//Decay and release are affected by the soften parameter also
+//This is set separately for each oscillator
+
+//Filter
+//Lowpass filter
+//By default, cutoff modulation is measured in cents
+//To make the modulation not keytrack, we make a kludge
+//Using var
+cutoff=250
+var02_cutoff=9000
+var02_mod=mult
+var02_oncc120=1
+var02_curvecc120=0
+var02_oncc133=1
+var02_curvecc133=11
+fil_keytrack=70
+resonance=0
+resonance_cc121=18
+var01_cutoff=6000 //Velocity track
+var01_mod=mult
+var01_oncc131=1
+var01_oncc124=1
+cutoff_cc124=-3000
+//Pluck envelope
+fileg_depth=0
+fileg_depthcc125=8400
+fileg_sustain=0
+fileg_attack=0
+fileg_attackcc126=0.5
+fileg_decay=0.001
+fileg_decaycc127=2
+
+//Vibrato and humanization setup
+lfo01_pitch_oncc111=22 //Vibrato LFO
+lfo01_freq=0.1
+lfo01_freq_oncc112=9.9
+lfo01_delay_oncc115=0.500
+lfo01_fade_oncc116=0.500
+lfo01_volume_oncc114=6
+//Wobble
+lfo01_cutoff=0
+lfo01_cutoff_oncc113=3600
+
+lfo02_wave=1 //Second LFO to make things wobblier
+lfo02_phase=0
+lfo02_phase_oncc135=1 //Phase randomized
+lfo02_freq=0.01 //Basically no movement at very slow speeds, just randomization
+lfo02_freq_oncc117=1 //Max rate is not very high, so it doesn't sound too obvious
+lfo02_pitch_oncc117=6 //Slight pitch wobbliness
+lfo02_freq_lfo01_oncc117=0.5 //Affect the rate of the other LFO for unsteady vibrato
+lfo02_freq_lfo01_oncc112=2.5 //Faster when the first LFO is going faster
+
+lfo03_wave=1 //And a third LFO for secondhand complex wobbliness
+lfo03_phase=0.4
+lfo03_phase_oncc135=0.179 //Different phase response to random than the second LFO
+lfo03_freq=0.5
+lfo03_freq_oncc117=-0.4
+lfo03_freq_lfo2_oncc117=1
+lfo03_pitch_oncc117=-4
+
+lfo04_wave=1 //Fourth LFO for slowly changing the oscillator mix
+lfo04_phase_oncc135=1
+lfo04_freq=0.01
+lfo04_freq_oncc135=0.25 //Randomly from almost not moving at all to still pretty slow
+lfo04_volume_oncc117=1.5 //Slight volume changes
+
+//Some defaults for the fancy detune stuff
+pitcheg_sustain=0
+pitcheg_decay_shape=-2
+
+<group>        // Group
+<region> sample=sawlp2pres0-D1 17-32.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=17 hivel=32 offset=12421 end=135337 loop_mode=loop_continuous loop_start=13772 loop_end=77256
+<region> sample=sawlp2pres45-D2 65-79.aif key=36 lokey=45 hikey=50  amp_veltrack=0 lovel=65 hivel=79 offset=206871 end=340320 loop_mode=loop_continuous loop_start=252027 loop_end=278312
+<region> sample=sawlp2pres69-D4 17-32.aif key=60 lokey=69 hikey=127  amp_veltrack=0 lovel=17 hivel=32 tune=4 offset=20519 end=115131 loop_mode=loop_continuous loop_start=20777 loop_end=41670
+<region> sample=sawlp2pres51-G#2 112-127.aif key=42 lokey=51 hikey=56  amp_veltrack=0 lovel=112 hivel=127 offset=82225 end=201464 loop_mode=loop_continuous loop_start=133735 loop_end=153290
+<region> sample=sawlp2pres45-D2 80-95.aif key=36 lokey=45 hikey=50  amp_veltrack=0 lovel=80 hivel=95 offset=71496 end=204306 loop_mode=loop_continuous loop_start=110596 loop_end=135540
+<region> sample=sawlp2pres51-G#2 49-64.aif key=42 lokey=51 hikey=56  amp_veltrack=0 lovel=49 hivel=64 tune=5 offset=10052 end=127322 loop_mode=loop_continuous loop_start=50573 loop_end=71548
+<region> sample=sawlp2pres69-D4 1-16.aif key=60 lokey=69 hikey=127  amp_veltrack=0 lovel=1 hivel=16 tune=4 offset=88657 end=190338 loop_mode=loop_continuous loop_start=121679 loop_end=139706
+<region> sample=sawlp2pres39-G#1 49-64.aif key=30 lokey=39 hikey=44  amp_veltrack=0 lovel=49 hivel=64 offset=241746 end=381004 loop_mode=loop_continuous loop_start=270360 loop_end=298974
+<region> sample=sawlp2pres45-D2 49-64.aif key=36 lokey=45 hikey=50  amp_veltrack=0 lovel=49 hivel=64 offset=3069 end=123157 loop_mode=loop_continuous loop_start=13192 loop_end=39502
+<region> sample=sawlp2pres0-D1 80-95.aif key=60 lokey=0 hikey=38  amp_veltrack=0 lovel=80 hivel=95 offset=249249 end=431514 loop_mode=loop_continuous loop_start=274901 loop_end=335655
+<region> sample=sawlp2pres51-G#2 17-32.aif key=42 lokey=51 hikey=56  amp_veltrack=0 lovel=17 hivel=32 tune=6 offset=70057 end=169253 loop_mode=loop_continuous loop_start=119179 loop_end=139686
+<region> sample=sawlp2pres0-D1 1-16.aif key=24 lokey=0 hikey=38  amp_veltrack=0 lovel=1 hivel=16 tune=3 offset=34883 end=195425 loop_mode=loop_continuous loop_start=49723 loop_end=136064
+<region> sample=sawlp2pres39-G#1 17-32.aif key=30 lokey=39 hikey=44  amp_veltrack=0 lovel=17 hivel=32 tune=5 offset=160593 end=262625 loop_mode=loop_continuous loop_start=186339 loop_end=214946
+<region> sample=sawlp2pres45-D2 1-16.aif key=36 lokey=45 hikey=50  amp_veltrack=0 lovel=1 hivel=16 tune=2 offset=44637 end=126996 loop_mode=loop_continuous loop_start=64209 loop_end=79732
+<region> sample=sawlp2pres63-G#3 80-95.aif key=54 lokey=63 hikey=68  amp_veltrack=0 lovel=80 hivel=95 tune=1 offset=1808 end=118307 loop_mode=loop_continuous loop_start=11337 loop_end=30635
+<region> sample=sawlp2pres51-G#2 80-95.aif key=42 lokey=51 hikey=56  amp_veltrack=0 lovel=80 hivel=95 offset=2513 end=121716 loop_mode=loop_continuous loop_start=60208 loop_end=86909
+<region> sample=sawlp2pres69-D4 65-79.aif key=60 lokey=69 hikey=127  amp_veltrack=0 lovel=65 hivel=79 tune=4 offset=3611 end=119369 loop_mode=loop_continuous loop_start=4790 loop_end=31413
+<region> sample=sawlp2pres39-G#1 96-111.aif key=30 lokey=39 hikey=44  amp_veltrack=0 lovel=96 hivel=111 offset=238559 end=360557 loop_mode=loop_continuous loop_start=304324 loop_end=332917
+<region> sample=sawlp2pres51-G#2 96-111.aif key=42 lokey=51 hikey=56  amp_veltrack=0 lovel=96 hivel=111 offset=107254 end=225462 loop_mode=loop_continuous loop_start=120599 loop_end=141095
+<region> sample=sawlp2pres57-D3 1-16.aif key=48 lokey=57 hikey=62  amp_veltrack=0 lovel=1 hivel=16 tune=14 offset=37846 end=116719 loop_mode=loop_continuous loop_start=62972 loop_end=76118
+<region> sample=sawlp2pres0-D1 96-111.aif key=60 lokey=0 hikey=38  amp_veltrack=0 lovel=96 hivel=111 offset=224602 end=364894 loop_mode=loop_continuous loop_start=247534 loop_end=332519
+<region> sample=sawlp2pres69-D4 49-64.aif key=60 lokey=69 hikey=127  amp_veltrack=0 lovel=49 hivel=64 tune=4 offset=1225 end=115279 loop_mode=loop_continuous loop_start=52275 loop_end=72154
+<region> sample=sawlp2pres0-D1 33-48.aif key=24 lokey=0 hikey=38  amp_veltrack=0 lovel=33 hivel=48 tune=2 offset=144293 end=310182 loop_mode=loop_continuous loop_start=214425 loop_end=269722
+<region> sample=sawlp2pres57-D3 80-95.aif key=48 lokey=57 hikey=62  amp_veltrack=0 lovel=80 hivel=95 offset=2223 end=119569 loop_mode=loop_continuous loop_start=24141 loop_end=48756
+<region> sample=sawlp2pres63-G#3 65-79.aif key=54 lokey=63 hikey=68  amp_veltrack=0 lovel=65 hivel=79 tune=3 offset=37144 end=152695 loop_mode=loop_continuous loop_start=56680 loop_end=77884
+<region> sample=sawlp2pres57-D3 65-79.aif key=48 lokey=57 hikey=62  amp_veltrack=0 lovel=65 hivel=79 tune=4 offset=4751 end=121033 loop_mode=loop_continuous loop_start=9469 loop_end=27333
+<region> sample=sawlp2pres63-G#3 1-16.aif key=54 lokey=63 hikey=68  amp_veltrack=0 lovel=1 hivel=16 tune=7 offset=57031 end=116617 loop_mode=loop_continuous loop_start=57984 loop_end=68948
+<region> sample=sawlp2pres45-D2 112-127.aif key=36 lokey=45 hikey=50  amp_veltrack=0 lovel=112 hivel=127 offset=114134 end=230810 loop_mode=loop_continuous loop_start=182925 loop_end=205856
+<region> sample=sawlp2pres45-D2 96-111.aif key=36 lokey=45 hikey=50  amp_veltrack=0 lovel=96 hivel=111 tune=-1 offset=2815 end=120262 loop_mode=loop_continuous loop_start=18337 loop_end=41287
+<region> sample=sawlp2pres57-D3 112-127.aif key=48 lokey=57 hikey=62  amp_veltrack=0 lovel=112 hivel=127 offset=101929 end=217879 loop_mode=loop_continuous loop_start=157881 loop_end=176756
+<region> sample=sawlp2pres45-D2 33-48.aif key=36 lokey=45 hikey=50  amp_veltrack=0 lovel=33 hivel=48 tune=3 offset=236525 end=353814 loop_mode=loop_continuous loop_start=304608 loop_end=326178
+<region> sample=sawlp2pres45-D2 17-32.aif key=36 lokey=45 hikey=50  amp_veltrack=0 lovel=17 hivel=32 tune=2 offset=11075 end=122441 loop_mode=loop_continuous loop_start=11750 loop_end=31983
+<region> sample=sawlp2pres0-D1 112-127.aif key=60 lokey=0 hikey=38  amp_veltrack=0 lovel=112 hivel=127 tune=-2 offset=49179 end=207201 loop_mode=loop_continuous loop_start=108605 loop_end=172084
+<region> sample=sawlp2pres39-G#1 112-127.aif key=30 lokey=39 hikey=44  amp_veltrack=0 lovel=112 hivel=127 offset=26774 end=150740 loop_mode=loop_continuous loop_start=41077 loop_end=68731
+<region> sample=sawlp2pres0-D1 49-64.aif key=48 lokey=0 hikey=38  amp_veltrack=0 lovel=49 hivel=64 tune=12 offset=281208 end=401322 loop_mode=loop_continuous loop_start=323044 loop_end=352735
+<region> sample=sawlp2pres69-D4 33-48.aif key=60 lokey=69 hikey=127  amp_veltrack=0 lovel=33 hivel=48 tune=4 offset=1005 end=115078 loop_mode=loop_continuous loop_start=45320 loop_end=65203
+<region> sample=sawlp2pres63-G#3 49-64.aif key=54 lokey=63 hikey=68  amp_veltrack=0 lovel=49 hivel=64 tune=7 offset=22228 end=138763 loop_mode=loop_continuous loop_start=59405 loop_end=78708
+<region> sample=sawlp2pres57-D3 96-111.aif key=48 lokey=57 hikey=62  amp_veltrack=0 lovel=96 hivel=111 offset=438 end=118753 loop_mode=loop_continuous loop_start=69029 loop_end=88917
+<region> sample=sawlp2pres39-G#1 33-48.aif key=30 lokey=39 hikey=44  amp_veltrack=0 lovel=33 hivel=48 offset=167273 end=338215 loop_mode=loop_continuous loop_start=220752 loop_end=304791
+<region> sample=sawlp2pres0-D1 65-79.aif key=60 lokey=0 hikey=38  amp_veltrack=0 lovel=65 hivel=79 offset=17325 end=194477 loop_mode=loop_continuous loop_start=87642 loop_end=159315
+<region> sample=sawlp2pres51-G#2 33-48.aif key=42 lokey=51 hikey=56  amp_veltrack=0 lovel=33 hivel=48 tune=7 offset=71490 end=189705 loop_mode=loop_continuous loop_start=121065 loop_end=142991
+<region> sample=sawlp2pres39-G#1 1-16.aif key=30 lokey=39 hikey=44  amp_veltrack=0 lovel=1 hivel=16 tune=7 offset=64118 end=183261 loop_mode=loop_continuous loop_start=70790 loop_end=99385
+<region> sample=sawlp2pres69-D4 112-127.aif key=60 lokey=69 hikey=127  amp_veltrack=0 lovel=112 hivel=127 offset=23704 end=140974 loop_mode=loop_continuous loop_start=39878 loop_end=58581
+<region> sample=sawlp2pres39-G#1 80-95.aif key=94 lokey=39 hikey=44  amp_veltrack=0 lovel=80 hivel=95 tune=19 offset=306254 end=433164 loop_mode=loop_continuous loop_start=360645 loop_end=401675
+<region> sample=sawlp2pres69-D4 96-111.aif key=60 lokey=69 hikey=127  amp_veltrack=0 lovel=96 hivel=111 tune=1 offset=2757 end=122553 loop_mode=loop_continuous loop_start=34436 loop_end=53138
+<region> sample=sawlp2pres57-D3 49-64.aif key=48 lokey=57 hikey=62  amp_veltrack=0 lovel=49 hivel=64 tune=14 offset=1525 end=117833 loop_mode=loop_continuous loop_start=13667 loop_end=32882
+<region> sample=sawlp2pres63-G#3 17-32.aif key=54 lokey=63 hikey=68  amp_veltrack=0 lovel=17 hivel=32 tune=8 offset=56240 end=115322 loop_mode=loop_continuous loop_start=61720 loop_end=72203
+<region> sample=sawlp2pres63-G#3 33-48.aif key=54 lokey=63 hikey=68  amp_veltrack=0 lovel=33 hivel=48 tune=8 offset=1434 end=115309 loop_mode=loop_continuous loop_start=69091 loop_end=90293
+<region> sample=sawlp2pres63-G#3 96-111.aif key=54 lokey=63 hikey=68  amp_veltrack=0 lovel=96 hivel=111 tune=1 offset=100492 end=216097 loop_mode=loop_continuous loop_start=164373 loop_end=185826
+<region> sample=sawlp2pres39-G#1 65-79.aif key=30 lokey=39 hikey=44  amp_veltrack=0 lovel=65 hivel=79 offset=203913 end=342147 loop_mode=loop_continuous loop_start=282086 loop_end=309733
+<region> sample=sawlp2pres69-D4 80-95.aif key=60 lokey=69 hikey=127  amp_veltrack=0 lovel=80 hivel=95 offset=1469 end=116889 loop_mode=loop_continuous loop_start=26406 loop_end=46289
+<region> sample=sawlp2pres51-G#2 1-16.aif key=42 lokey=51 hikey=56  amp_veltrack=0 lovel=1 hivel=16 tune=7 offset=23095 end=136049 loop_mode=loop_continuous loop_start=34533 loop_end=55980
+<region> sample=sawlp2pres57-D3 17-32.aif key=48 lokey=57 hikey=62  amp_veltrack=0 lovel=17 hivel=32 tune=14 offset=60621 end=116235 loop_mode=loop_continuous loop_start=72081 loop_end=83878
+<region> sample=sawlp2pres57-D3 33-48.aif key=48 lokey=57 hikey=62  amp_veltrack=0 lovel=33 hivel=48 tune=14 offset=51251 end=168272 loop_mode=loop_continuous loop_start=68943 loop_end=88166
+<region> sample=sawlp2pres63-G#3 112-127.aif key=54 lokey=63 hikey=68  amp_veltrack=0 lovel=112 hivel=127 tune=1 offset=189681 end=306433 loop_mode=loop_continuous loop_start=214699 loop_end=236144
+<region> sample=sawlp2pres51-G#2 65-79.aif key=42 lokey=51 hikey=56  amp_veltrack=0 lovel=65 hivel=79 offset=6959 end=125756 loop_mode=loop_continuous loop_start=14592 loop_end=37493

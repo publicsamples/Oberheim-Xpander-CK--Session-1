@@ -1,0 +1,63 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - triangle 2notch1lp res.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Session 1/Triangles/triangle 2notch1lp res/
+
+<group>        // triangle 2notch1lp res
+<region> sample=tri2notch1lp0-D1 65-79.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=65 hivel=79 offset=315 end=681188 loop_mode=loop_continuous loop_start=46562 loop_end=168071
+<region> sample=tri2notch1lp39-G#1 49-64.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=49 hivel=64 offset=362 end=680939 loop_mode=loop_continuous loop_start=6946 loop_end=148257
+<region> sample=tri2notch1lp57-D3 17-32.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=17 hivel=32 offset=455 end=680147 loop_mode=loop_continuous loop_start=1358 loop_end=114799
+<region> sample=tri2notch1lp45-D2 33-48.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=33 hivel=48 offset=393 end=679929 loop_mode=loop_continuous loop_start=15982 loop_end=129518
+<region> sample=tri2notch1lp45-D2 49-64.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=49 hivel=64 offset=343 end=682233 loop_mode=loop_continuous loop_start=7062 loop_end=123196
+<region> sample=tri2notch1lp63-G#3 17-32.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=17 hivel=32 offset=465 end=679659 loop_mode=loop_continuous loop_start=37452 loop_end=151962
+<region> sample=tri2notch1lp39-G#1 1-16.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=1 hivel=16 offset=366 end=680699 loop_mode=loop_continuous loop_start=137164 loop_end=251706
+<region> sample=tri2notch1lp45-D2 96-111.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=96 hivel=111 offset=347 end=681201 loop_mode=loop_continuous loop_start=648 loop_end=115369
+<region> sample=tri2notch1lp39-G#1 17-32.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=17 hivel=32 offset=447 end=681451 loop_mode=loop_continuous loop_start=116303 loop_end=230961
+<region> sample=tri2notch1lp57-D3 49-64.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=49 hivel=64 offset=362 end=679928 loop_mode=loop_continuous loop_start=1202 loop_end=113248
+<region> sample=tri2notch1lp39-G#1 96-111.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=96 hivel=111 offset=276 end=681674 loop_mode=loop_continuous loop_start=91317 loop_end=209680
+<region> sample=tri2notch1lp51-G#2 80-95.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=80 hivel=95 offset=309 end=680696 loop_mode=loop_continuous loop_start=180581 loop_end=293235
+<region> sample=tri2notch1lp69-D4-127.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=112 hivel=127 offset=282 end=681373 loop_mode=loop_continuous loop_start=741 loop_end=113263
+<region> sample=tri2notch1lp57-D3 33-48.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=33 hivel=48 offset=467 end=679904 loop_mode=loop_continuous loop_start=1299 loop_end=114693
+<region> sample=tri2notch1lp63-G#3 49-64.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=49 hivel=64 offset=507 end=679932 loop_mode=loop_continuous loop_start=1177 loop_end=116875
+<region> sample=tri2notch1lp63-G#3 112-127.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=112 hivel=127 offset=450 end=680928 loop_mode=loop_continuous loop_start=1084 loop_end=118462
+<region> sample=tri2notch1lp51-G#2 112-127.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=112 hivel=127 offset=456 end=682210 loop_mode=loop_continuous loop_start=8575 loop_end=123149
+<region> sample=tri2notch1lp51-G#2 17-32.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=17 hivel=32 offset=263 end=680867 loop_mode=loop_continuous loop_start=817 loop_end=114432
+<region> sample=tri2notch1lp57-D3 80-95.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=80 hivel=95 offset=236 end=680947 loop_mode=loop_continuous loop_start=906 loop_end=113645
+<region> sample=tri2notch1lp51-G#2 49-64.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=49 hivel=64 offset=344 end=680945 loop_mode=loop_continuous loop_start=279906 loop_end=395475
+<region> sample=tri2notch1lp63-G#3 33-48.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=33 hivel=48 offset=279 end=679121 loop_mode=loop_continuous loop_start=54834 loop_end=168428
+<region> sample=tri2notch1lp57-D3 65-79.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=65 hivel=79 offset=404 end=679932 loop_mode=loop_continuous loop_start=4039 loop_end=117831
+<region> sample=tri2notch1lp45-D2 112-127.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=112 hivel=127 offset=441 end=680430 loop_mode=loop_continuous loop_start=856 loop_end=118311
+<region> sample=tri2notch1lp63-G#3 65-79.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=65 hivel=79 offset=344 end=679922 loop_mode=loop_continuous loop_start=187612 loop_end=304020
+<region> sample=tri2notch1lp51-G#2 33-48.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=33 hivel=48 offset=328 end=680917 loop_mode=loop_continuous loop_start=917 loop_end=123570
+<region> sample=tri2notch1lp69-D4 1-16.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=1 hivel=16 offset=2 end=678882 loop_mode=loop_continuous loop_start=86677 loop_end=200213
+<region> sample=tri2notch1lp57-D3 112-127.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=112 hivel=127 offset=514 end=680848 loop_mode=loop_continuous loop_start=22712 loop_end=136157
+<region> sample=tri2notch1lp69-D4 49-64.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=49 hivel=64 offset=261 end=679161 loop_mode=loop_continuous loop_start=1250 loop_end=112940
+<region> sample=tri2notch1lp57-D3 96-111.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=96 hivel=111 offset=376 end=679930 loop_mode=loop_continuous loop_start=1272 loop_end=114657
+<region> sample=tri2notch1lp51-G#2 96-111.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=96 hivel=111 offset=496 end=681462 loop_mode=loop_continuous loop_start=265845 loop_end=391947
+<region> sample=tri2notch1lp45-D2 65-79.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=65 hivel=79 offset=493 end=680956 loop_mode=loop_continuous loop_start=68378 loop_end=188512
+<region> sample=tri2notch1lp39-G#1 112-127.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=112 hivel=127 offset=392 end=680888 loop_mode=loop_continuous loop_start=220044 loop_end=348072
+<region> sample=tri2notch1lp39-G#1 65-79.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=65 hivel=79 offset=297 end=681448 loop_mode=loop_continuous loop_start=169487 loop_end=293785
+<region> sample=tri2notch1lp63-G#3 1-16.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=1 hivel=16 offset=435 end=680142 loop_mode=loop_continuous loop_start=25472 loop_end=140460
+<region> sample=tri2notch1lp69-D4 65-79.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=65 hivel=79 offset=344 end=679656 loop_mode=loop_continuous loop_start=1270 loop_end=113973
+<region> sample=tri2notch1lp51-G#2 65-79.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=65 hivel=79 offset=386 end=683249 loop_mode=loop_continuous loop_start=77115 loop_end=200249
+<region> sample=tri2notch1lp63-G#3 96-111.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=96 hivel=111 offset=301 end=679153 loop_mode=loop_continuous loop_start=1195 loop_end=113792
+<region> sample=tri2notch1lp0-D1 49-64.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=49 hivel=64 offset=349 end=680939 loop_mode=loop_continuous loop_start=145639 loop_end=286280
+<region> sample=tri2notch1lp63-G#3 80-95.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=80 hivel=95 offset=287 end=680607 loop_mode=loop_continuous loop_start=227309 loop_end=340421
+<region> sample=tri2notch1lp39-G#1 33-48.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=33 hivel=48 offset=405 end=681408 loop_mode=loop_continuous loop_start=13351 loop_end=132632
+<region> sample=tri2notch1lp45-D2 1-16.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=1 hivel=16 offset=394 end=681189 loop_mode=loop_continuous loop_start=960 loop_end=114328
+<region> sample=tri2notch1lp69-D4 80-95.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=80 hivel=95 offset=294 end=678877 loop_mode=loop_continuous loop_start=54826 loop_end=167517
+<region> sample=tri2notch1lp69-D4 96-111.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=96 hivel=111 offset=342 end=679671 loop_mode=loop_continuous loop_start=206364 loop_end=321582
+<region> sample=tri2notch1lp57-D3 1-16.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=1 hivel=16 offset=190 end=680418 loop_mode=loop_continuous loop_start=619 loop_end=113329
+<region> sample=tri2notch1lp0-D1 33-48.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=33 hivel=48 offset=465 end=681455 loop_mode=loop_continuous loop_start=16377 loop_end=143355
+<region> sample=tri2notch1lp0-D1 96-111.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=96 hivel=111 offset=432 end=680667 loop_mode=loop_continuous loop_start=150135 loop_end=351868
+<region> sample=tri2notch1lp0-D1 17-32.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=17 hivel=32 offset=398 end=681143 loop_mode=loop_continuous loop_start=13844 loop_end=149030
+<region> sample=tri2notch1lp0-D1 80-95.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=80 hivel=95 offset=404 end=681452 loop_mode=loop_continuous loop_start=244998 loop_end=376063
+<region> sample=tri2notch1lp51-G#2 1-16.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=1 hivel=16 offset=308 end=680420 loop_mode=loop_continuous loop_start=1092 loop_end=113821
+<region> sample=tri2notch1lp45-D2 80-95.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=80 hivel=95 offset=494 end=681722 loop_mode=loop_continuous loop_start=899 loop_end=115058
+<region> sample=tri2notch1lp69-D4 17-32.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=17 hivel=32 offset=178 end=681193 loop_mode=loop_continuous loop_start=29948 loop_end=145498
+<region> sample=tri2notch1lp69- D4 33-48.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=33 hivel=48 offset=476 end=679669 loop_mode=loop_continuous loop_start=838 loop_end=113359
+<region> sample=tri2notch1lp39-G#1 80-95.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=80 hivel=95 offset=175 end=681654 loop_mode=loop_continuous loop_start=4538 loop_end=119140
+<region> sample=tri2notch1lp45-D2 17-32.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=17 hivel=32 offset=466 end=680936 loop_mode=loop_continuous loop_start=23073 loop_end=137818
+<region> sample=tri2notch1lp0-D1 1-16.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=1 hivel=16 offset=364 end=681210 loop_mode=loop_continuous loop_start=155170 loop_end=278400
+<region> sample=tri2notch1lp0-D1 112-127.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=112 hivel=127 offset=376 end=682747 loop_mode=loop_continuous loop_start=8808 loop_end=416953

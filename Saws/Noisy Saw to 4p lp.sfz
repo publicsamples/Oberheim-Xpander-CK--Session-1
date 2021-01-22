@@ -1,0 +1,87 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Noisy Saw to 4p lp.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Session 1/Saws/Noisy Saw to 4p lp/Noisy Saw to 4p lp/
+
+<group>        // Group
+<region> sample=Noisy Saw to 4p lp173295127-W9LO.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=123949 loop_end=250415
+<region> sample=Noisy Saw to 4p lp49644652-IMAQ.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=79238 loop_end=202328
+<region> sample=Noisy Saw to 4p lp80956066-CL7N.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=231347 loop_end=351176
+<region> sample=Noisy Saw to 4p lp1163945-9LID.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=226368 loop_end=367561
+<region> sample=Noisy Saw to 4p lp657995127-S90E.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=74612 loop_end=195106
+<region> sample=Noisy Saw to 4p lp1165359-1WUC.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=22011 loop_end=152293
+<region> sample=Noisy Saw to 4p lp3348038-7778.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=310795 loop_end=447000
+<region> sample=Noisy Saw to 4p lp11212795127-HAQ5.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=231586 loop_end=352112
+<region> sample=Noisy Saw to 4p lp80955359-MC23.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=252678 loop_end=379752
+<region> sample=Noisy Saw to 4p lp33486773-O07R.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=290719 loop_end=413357
+<region> sample=Noisy Saw to 4p lp80958187-85LX.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=333300 loop_end=459451
+<region> sample=Noisy Saw to 4p lp1121277480-ZYZ7.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=299913 loop_end=429336
+<region> sample=Noisy Saw to 4p lp80956773-TDSD.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=444352 loop_end=574496
+<region> sample=Noisy Saw to 4p lp8095038-R53M.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=200939 loop_end=327912
+<region> sample=Noisy Saw to 4p lp17326773-0H1R.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=423233 loop_end=554635
+<region> sample=Noisy Saw to 4p lp961114652-C53S.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=72673 loop_end=193964
+<region> sample=Noisy Saw to 4p lp1732038-OALK.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=385998 loop_end=526275
+<region> sample=Noisy Saw to 4p lp6579038-XIBO.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=230976 loop_end=430662
+<region> sample=Noisy Saw to 4p lp1168187-WH7T.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=438989 loop_end=564098
+<region> sample=Noisy Saw to 4p lp9611195127-UIE8.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=246404 loop_end=378086
+<region> sample=Noisy Saw to 4p lp33487480-WSOW.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=190754 loop_end=315391
+<region> sample=Noisy Saw to 4p lp33488894-E0JT.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=282751 loop_end=416933
+<region> sample=Noisy Saw to 4p lp49647480-9553.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=339032 loop_end=473323
+<region> sample=Noisy Saw to 4p lp17324652-5LVP.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=274060 loop_end=409255
+<region> sample=Noisy Saw to 4p lp49646066-PRHL.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=145778 loop_end=269369
+<region> sample=Noisy Saw to 4p lp1121276773-DG8W.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=159906 loop_end=308797
+<region> sample=Noisy Saw to 4p lp49648187-PY7Y.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=223035 loop_end=344550
+<region> sample=Noisy Saw to 4p lp65798894-TYC2.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=285389 loop_end=406271
+<region> sample=Noisy Saw to 4p lp80958894-IP20.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=125670 loop_end=247406
+<region> sample=Noisy Saw to 4p lp33483945-0PNX.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=204795 loop_end=330756
+<region> sample=Noisy Saw to 4p lp961113945-9W39.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=153543 loop_end=293838
+<region> sample=Noisy Saw to 4p lp1166773-0SK3.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=224749 loop_end=358264
+<region> sample=Noisy Saw to 4p lp1168894-VO51.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=167646 loop_end=287721
+<region> sample=Noisy Saw to 4p lp1121276066-OQKS.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=199445 loop_end=326214
+<region> sample=Noisy Saw to 4p lp65795359-NAHU.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=219747 loop_end=349171
+<region> sample=Noisy Saw to 4p lp65797480-7EIA.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=347504 loop_end=477855
+<region> sample=Noisy Saw to 4p lp33484652-DU6E.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=183734 loop_end=311733
+<region> sample=Noisy Saw to 4p lp961116773-PR08.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=53929 loop_end=178337
+<region> sample=Noisy Saw to 4p lp17328894-91U9.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=178829 loop_end=301176
+<region> sample=Noisy Saw to 4p lp80953945-H0PM.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=258142 loop_end=390371
+<region> sample=Noisy Saw to 4p lp961117480-RTQQ.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=57597 loop_end=201034
+<region> sample=Noisy Saw to 4p lp961115359-MSJL.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=382387 loop_end=503046
+<region> sample=Noisy Saw to 4p lp1166066-O6TX.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=403696 loop_end=536866
+<region> sample=Noisy Saw to 4p lp961116066-D98A.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=195659 loop_end=320276
+<region> sample=Noisy Saw to 4p lp65794652-JQ05.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=264186 loop_end=404655
+<region> sample=Noisy Saw to 4p lp334895127-B61P.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=274153 loop_end=394928
+<region> sample=Noisy Saw to 4p lp49643945-NNMZ.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=467118 loop_end=594097
+<region> sample=Noisy Saw to 4p lp1121273945-FIRC.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=315282 loop_end=456586
+<region> sample=Noisy Saw to 4p lp33485359-ET5Q.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=117847 loop_end=252063
+<region> sample=Noisy Saw to 4p lp1164652-BKLH.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=111034 loop_end=241934
+<region> sample=Noisy Saw to 4p lp17326066-4NUD.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=261710 loop_end=396763
+<region> sample=Noisy Saw to 4p lp4964038-02SG.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=255237 loop_end=405074
+<region> sample=Noisy Saw to 4p lp17323945-MGTL.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=399501 loop_end=570505
+<region> sample=Noisy Saw to 4p lp17325359-BSF2.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=247137 loop_end=381365
+<region> sample=Noisy Saw to 4p lp1121278894-PWH9.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=153582 loop_end=283366
+<region> sample=Noisy Saw to 4p lp49646773-6FVB.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=466094 loop_end=591250
+<region> sample=Noisy Saw to 4p lp33488187-Z9JV.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=224634 loop_end=345124
+<region> sample=Noisy Saw to 4p lp65796066-B0SD.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=203891 loop_end=328812
+<region> sample=Noisy Saw to 4p lp961118187-UWHM.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=428913 loop_end=548140
+<region> sample=Noisy Saw to 4p lp80954652-8VSB.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=401763 loop_end=554906
+<region> sample=Noisy Saw to 4p lp17328187-9SRT.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=432675 loop_end=576719
+<region> sample=Noisy Saw to 4p lp1121278187-I8MN.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=165430 loop_end=306375
+<region> sample=Noisy Saw to 4p lp49645359-YH8M.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=203680 loop_end=336705
+<region> sample=Noisy Saw to 4p lp116038-LWFR.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=356137 loop_end=491312
+<region> sample=Noisy Saw to 4p lp1121274652-CZET.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=198079 loop_end=318851
+<region> sample=Noisy Saw to 4p lp33486066-CBVS.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=68243 loop_end=196079
+<region> sample=Noisy Saw to 4p lp65798187-CT78.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=349719 loop_end=471620
+<region> sample=Noisy Saw to 4p lp96111038-BH9K.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=243746 loop_end=378909
+<region> sample=Noisy Saw to 4p lp65796773-S9QC.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=251530 loop_end=371833
+<region> sample=Noisy Saw to 4p lp496495127-WEA7.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=86322 loop_end=208474
+<region> sample=Noisy Saw to 4p lp17327480-78LF.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=286321 loop_end=408950
+<region> sample=Noisy Saw to 4p lp1167480-MVF4.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=334580 loop_end=462655
+<region> sample=Noisy Saw to 4p lp65793945-91X3.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=54439 loop_end=176058
+<region> sample=Noisy Saw to 4p lp1121275359-7FKW.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=88126 loop_end=219950
+<region> sample=Noisy Saw to 4p lp11695127-NZ5P.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=368684 loop_end=488531
+<region> sample=Noisy Saw to 4p lp809595127-MYR5.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=83782 loop_end=206435
+<region> sample=Noisy Saw to 4p lp80957480-O0GI.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=142921 loop_end=272189
+<region> sample=Noisy Saw to 4p lp961118894-4S9V.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=257980 loop_end=386493
+<region> sample=Noisy Saw to 4p lp112127038-UK88.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=54461 loop_end=190663
+<region> sample=Noisy Saw to 4p lp49648894-FKO9.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=226365 loop_end=350713

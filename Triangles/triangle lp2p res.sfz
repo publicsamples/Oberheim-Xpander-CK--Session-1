@@ -1,0 +1,60 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - triangle lp2p res.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Session 1/Triangles/triangle lp2p res/
+
+<group>        // Group
+<region> sample=trilp2p45-D2 96-111.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=2512 loop_end=119254
+<region> sample=trilp2p51-G#2 1-16.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=81457 loop_end=198951
+<region> sample=trilp2p69-D4 112-127.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=42169 loop_end=158885
+<region> sample=trilp2p45-D2 17-32.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=2077 loop_end=121533
+<region> sample=trilp2p69-D4 80-95.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=1094 loop_end=116801
+<region> sample=trilp2p69-D4 33-48.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=1244 loop_end=117462
+<region> sample=trilp2p39-G#1 65-79.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=22839 loop_end=152867
+<region> sample=trilp2p39-G#1 80-95.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=35433 loop_end=153835
+<region> sample=trilp2p0-D1 96-111.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=43190 loop_end=162320
+<region> sample=trilp2p63-G#3 1-16.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=1097 loop_end=117026
+<region> sample=trilp2p0-D1 49-64.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=26881 loop_end=166159
+<region> sample=trilp2p45-D2 65-79.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=92774 loop_end=211544
+<region> sample=trilp2p0-D1 65-79.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=54836 loop_end=177702
+<region> sample=trilp2p39-G#1 96-111.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=80423 loop_end=197810
+<region> sample=trilp2p51-G#2 33-48.aif key=54 lokey=51 hikey=59  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=3136 loop_end=120994
+<region> sample=trilp2p63-G#3 96-111.aif key=66 lokey=60 hikey=68  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=478 loop_end=115213
+<region> sample=trilp2p69-D4 1-16.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=17666 loop_end=133718
+<region> sample=trilp2p39-G#1 49-64.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=138091 loop_end=265067
+<region> sample=trilp2p57-D3 49-64.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=867 loop_end=116956
+<region> sample=trilp2p51-G#2 65-79.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=44312 loop_end=161226
+<region> sample=trilp2p39-G#1 1-16.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=362905 loop_end=485131
+<region> sample=trilp2p45-D2 49-64.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=34106 loop_end=153599
+<region> sample=trilp2p45-D2 80-95.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=870 loop_end=118382
+<region> sample=trilp2p45-D2 1-16.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=4520 loop_end=123291
+<region> sample=trilp2p51-G#2 112-127.aif key=54 lokey=51 hikey=59  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=33642 loop_end=150583
+<region> sample=trilp2p63-G#3 80-95.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=24685 loop_end=140404
+<region> sample=trilp2p51-G#2 49-64.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=9019 loop_end=126484
+<region> sample=trilp2p57-D3 65-79.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=1125 loop_end=116929
+<region> sample=trilp2p39-G#1 33-48.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=43120 loop_end=169085
+<region> sample=trilp2p69-D4 65-79.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=1940 loop_end=116824
+<region> sample=trilp2p57-D3 17-32.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=1054 loop_end=117188
+<region> sample=trilp2p51-G#2 96-111.aif key=54 lokey=51 hikey=59  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=777 loop_end=117790
+<region> sample=trilp2p69-D4 17-32.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=1689 loop_end=115030
+<region> sample=trilp2p0-D1 1-16.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=162006 loop_end=283868
+<region> sample=trilp2p57-D3 80-95.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=222851 loop_end=308910
+<region> sample=trilp2p63-G#3 17-32.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=1432 loop_end=115924
+<region> sample=trilp2p39-G#1 17-32.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=143916 loop_end=265234
+<region> sample=trilp2p63-G#3 65-79.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=581 loop_end=117210
+<region> sample=trilp2p0-D1 17-32.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=270859 loop_end=406025
+<region> sample=trilp2p69-D4 96-111.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=1294 loop_end=116002
+<region> sample=trilp2p63-G#3 33-48.aif key=66 lokey=60 hikey=68  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=1507 loop_end=116287
+<region> sample=trilp2p51-G#2 80-95.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=32808 loop_end=150220
+<region> sample=trilp2p45-D2 33-48.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=4577 loop_end=121481
+<region> sample=trilp2p45-D2 112-127.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=2666 loop_end=120771
+<region> sample=trilp2p51-G#2 17-32.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=30164 loop_end=149012
+<region> sample=trilp2p0-D1 112-127.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=163321 loop_end=297116
+<region> sample=trilp2p69-D4 49-64.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=1738 loop_end=116620
+<region> sample=trilp2p63-G#3 49-64.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=23677 loop_end=141027
+<region> sample=trilp2p57-D3 1-16.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=524 loop_end=117271
+<region> sample=trilp2p39-G#1 112-127.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=39566 loop_end=159927
+<region> sample=trilp2p0-D1 80-95.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=129526 loop_end=259230
+<region> sample=trilp2p63-G#3 112-127.aif key=66 lokey=60 hikey=68  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=2930 loop_end=117426
+<region> sample=trilp2p0-D1 33-48.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=227535 loop_end=354495

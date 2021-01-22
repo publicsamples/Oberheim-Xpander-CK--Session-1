@@ -1,0 +1,87 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Snappy Detuned Pulse.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Session 1/Squares/Snappy Detuned Pulse/
+
+<group>        // Group
+<region> sample=Snappy Detuned Pulse6579038-UO01.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=356602 loop_end=578965
+<region> sample=Snappy Detuned Pulse1121277480-BZMV.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=94170 loop_end=229368
+<region> sample=Snappy Detuned Pulse4964038-O89H.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=324825 loop_end=464348
+<region> sample=Snappy Detuned Pulse1121278894-3T0Y.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=494424 loop_end=619312
+<region> sample=Snappy Detuned Pulse80956773-AEWZ.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=37253 loop_end=168274
+<region> sample=Snappy Detuned Pulse961117480-BPTW.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=260261 loop_end=409821
+<region> sample=Snappy Detuned Pulse65798187-TTCT.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=134671 loop_end=259642
+<region> sample=Snappy Detuned Pulse1121275359-NUJM.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=177228 loop_end=313509
+<region> sample=Snappy Detuned Pulse80954652-5PZ5.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=36794 loop_end=216042
+<region> sample=Snappy Detuned Pulse11212795127-XLVL.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=201147 loop_end=338397
+<region> sample=Snappy Detuned Pulse1121276773-OOUP.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=300103 loop_end=430132
+<region> sample=Snappy Detuned Pulse1121276066-VKLO.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=23824 loop_end=207900
+<region> sample=Snappy Detuned Pulse49646773-57XA.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=89068 loop_end=230500
+<region> sample=Snappy Detuned Pulse17325359-VWXL.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=434258 loop_end=590968
+<region> sample=Snappy Detuned Pulse9611195127-6MMV.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=91579 loop_end=273967
+<region> sample=Snappy Detuned Pulse17327480-K5LX.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=388689 loop_end=536154
+<region> sample=Snappy Detuned Pulse17326773-32UB.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=334414 loop_end=473720
+<region> sample=Snappy Detuned Pulse961116066-JY16.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=30887 loop_end=194713
+<region> sample=Snappy Detuned Pulse17326066-U5EF.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=134295 loop_end=266463
+<region> sample=Snappy Detuned Pulse65795359-US7V.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=217434 loop_end=360889
+<region> sample=Snappy Detuned Pulse33486066-7EZX.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=69892 loop_end=204164
+<region> sample=Snappy Detuned Pulse1167480-YPBC.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=351580 loop_end=502084
+<region> sample=Snappy Detuned Pulse961113945-2MRQ.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=37825 loop_end=208865
+<region> sample=Snappy Detuned Pulse80958894-EFQG.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=272869 loop_end=400903
+<region> sample=Snappy Detuned Pulse961118187-FESI.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=63110 loop_end=215661
+<region> sample=Snappy Detuned Pulse961114652-HAGO.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=161880 loop_end=287949
+<region> sample=Snappy Detuned Pulse65793945-GOTW.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=221481 loop_end=403207
+<region> sample=Snappy Detuned Pulse80956066-L9CF.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=292860 loop_end=437304
+<region> sample=Snappy Detuned Pulse17324652-MYHX.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=318313 loop_end=442004
+<region> sample=Snappy Detuned Pulse49646066-M8I4.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=401061 loop_end=534153
+<region> sample=Snappy Detuned Pulse112127038-93ZV.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=28938 loop_end=220514
+<region> sample=Snappy Detuned Pulse49643945-306C.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=114802 loop_end=255162
+<region> sample=Snappy Detuned Pulse11695127-FIMF.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=267561 loop_end=435496
+<region> sample=Snappy Detuned Pulse1121274652-TGE7.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=398352 loop_end=552069
+<region> sample=Snappy Detuned Pulse961115359-I02C.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=248727 loop_end=387990
+<region> sample=Snappy Detuned Pulse3348038-T3RV.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=198227 loop_end=323726
+<region> sample=Snappy Detuned Pulse17323945-UWJZ.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=452531 loop_end=590629
+<region> sample=Snappy Detuned Pulse1121278187-DVE2.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=184803 loop_end=321003
+<region> sample=Snappy Detuned Pulse49644652-5QM7.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=136274 loop_end=310431
+<region> sample=Snappy Detuned Pulse116038-SK9Q.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=88463 loop_end=221293
+<region> sample=Snappy Detuned Pulse1168894-KMBF.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=162276 loop_end=316938
+<region> sample=Snappy Detuned Pulse1163945-9XY7.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=162575 loop_end=333612
+<region> sample=Snappy Detuned Pulse33484652-EGAO.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=86057 loop_end=265275
+<region> sample=Snappy Detuned Pulse65798894-7W5S.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=89571 loop_end=228853
+<region> sample=Snappy Detuned Pulse65794652-6KIK.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=148366 loop_end=295804
+<region> sample=Snappy Detuned Pulse65797480-4SAV.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=389627 loop_end=551527
+<region> sample=Snappy Detuned Pulse1165359-02WR.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=280878 loop_end=421138
+<region> sample=Snappy Detuned Pulse33486773-C09C.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=51519 loop_end=286125
+<region> sample=Snappy Detuned Pulse8095038-9TV8.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=88058 loop_end=232992
+<region> sample=Snappy Detuned Pulse17328894-6VYR.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=411280 loop_end=539270
+<region> sample=Snappy Detuned Pulse1166066-EM7S.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=81526 loop_end=245485
+<region> sample=Snappy Detuned Pulse1164652-6Z0B.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=409250 loop_end=536216
+<region> sample=Snappy Detuned Pulse961116773-5BGD.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=38631 loop_end=197480
+<region> sample=Snappy Detuned Pulse96111038-VSH8.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=183379 loop_end=319549
+<region> sample=Snappy Detuned Pulse80958187-P2QA.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=255432 loop_end=384454
+<region> sample=Snappy Detuned Pulse1168187-03MN.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=164430 loop_end=289352
+<region> sample=Snappy Detuned Pulse65796066-0QD3.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=68201 loop_end=225881
+<region> sample=Snappy Detuned Pulse80957480-DEYS.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=46770 loop_end=348777
+<region> sample=Snappy Detuned Pulse33488894-7S7Y.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=453928 loop_end=583981
+<region> sample=Snappy Detuned Pulse1732038-41QO.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=291090 loop_end=417243
+<region> sample=Snappy Detuned Pulse49647480-2LVT.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=304580 loop_end=456134
+<region> sample=Snappy Detuned Pulse961118894-FQ5G.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=367227 loop_end=610982
+<region> sample=Snappy Detuned Pulse49645359-UYV7.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=282230 loop_end=443155
+<region> sample=Snappy Detuned Pulse173295127-6PRL.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=110874 loop_end=275726
+<region> sample=Snappy Detuned Pulse33483945-SYIR.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=411374 loop_end=606990
+<region> sample=Snappy Detuned Pulse657995127-UUI0.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=64029 loop_end=189060
+<region> sample=Snappy Detuned Pulse17328187-5N15.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=398082 loop_end=522992
+<region> sample=Snappy Detuned Pulse80955359-S4OU.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=58327 loop_end=240482
+<region> sample=Snappy Detuned Pulse334895127-NVNA.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=71466 loop_end=226087
+<region> sample=Snappy Detuned Pulse49648894-LI27.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=297374 loop_end=434635
+<region> sample=Snappy Detuned Pulse65796773-RL0N.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=71547 loop_end=200374
+<region> sample=Snappy Detuned Pulse49648187-Q23H.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=358770 loop_end=493900
+<region> sample=Snappy Detuned Pulse33488187-TL3S.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=92657 loop_end=227875
+<region> sample=Snappy Detuned Pulse1121273945-2B6T.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=42186 loop_end=180290
+<region> sample=Snappy Detuned Pulse496495127-CBJJ.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=260271 loop_end=601192
+<region> sample=Snappy Detuned Pulse809595127-A2T2.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=257626 loop_end=389690
+<region> sample=Snappy Detuned Pulse80953945-1303.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=435121 loop_end=565170
+<region> sample=Snappy Detuned Pulse33485359-9IPG.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=128902 loop_end=310062
+<region> sample=Snappy Detuned Pulse1166773-0GD0.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=234878 loop_end=367845
+<region> sample=Snappy Detuned Pulse33487480-54KK.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=97594 loop_end=278815

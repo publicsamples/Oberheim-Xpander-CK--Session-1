@@ -1,0 +1,87 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Snappy noisy triangle.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Session 1/Triangles/Snappy noisy triangle/
+
+<group>        // Group
+<region> sample=Snappy noisy triangle6579038-QLDD.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=82245 loop_end=225178
+<region> sample=Snappy noisy triangle33484652-RAP7.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=426349 loop_end=558183
+<region> sample=Snappy noisy triangle17324652-RMQW.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=61620 loop_end=181139
+<region> sample=Snappy noisy triangle65798894-NKX4.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=263684 loop_end=383169
+<region> sample=Snappy noisy triangle80958894-ISPW.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=155030 loop_end=272419
+<region> sample=Snappy noisy triangle17328187-QTL3.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=124855 loop_end=240551
+<region> sample=Snappy noisy triangle961116066-4X5V.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=183871 loop_end=297292
+<region> sample=Snappy noisy triangle33485359-G8D8.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=130885 loop_end=254920
+<region> sample=Snappy noisy triangle49646066-PB5B.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=82458 loop_end=210728
+<region> sample=Snappy noisy triangle1166066-SCEM.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=104251 loop_end=218335
+<region> sample=Snappy noisy triangle334895127-AW3G.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=213784 loop_end=340914
+<region> sample=Snappy noisy triangle1121276773-DWOL.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=111254 loop_end=231272
+<region> sample=Snappy noisy triangle496495127-JWNB.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=322871 loop_end=496160
+<region> sample=Snappy noisy triangle33488187-EFPR.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=258779 loop_end=391705
+<region> sample=Snappy noisy triangle1168187-BWMO.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=422891 loop_end=558592
+<region> sample=Snappy noisy triangle17323945-LTXM.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=379936 loop_end=500964
+<region> sample=Snappy noisy triangle65798187-QIUK.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=202010 loop_end=326224
+<region> sample=Snappy noisy triangle33488894-VZRS.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=148661 loop_end=268661
+<region> sample=Snappy noisy triangle1121273945-8ESB.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=153346 loop_end=271674
+<region> sample=Snappy noisy triangle65796773-YRSU.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=259395 loop_end=377206
+<region> sample=Snappy noisy triangle961118187-C2QD.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=223386 loop_end=337222
+<region> sample=Snappy noisy triangle657995127-W0DC.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=171368 loop_end=283921
+<region> sample=Snappy noisy triangle80958187-6TAW.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=281189 loop_end=396052
+<region> sample=Snappy noisy triangle49643945-XKPV.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=139083 loop_end=252488
+<region> sample=Snappy noisy triangle1163945-LX1G.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=235751 loop_end=376057
+<region> sample=Snappy noisy triangle1167480-X6SV.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=257600 loop_end=393023
+<region> sample=Snappy noisy triangle11695127-ZIDL.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=320657 loop_end=440760
+<region> sample=Snappy noisy triangle173295127-KD4O.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=108004 loop_end=240160
+<region> sample=Snappy noisy triangle80953945-ZOFJ.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=348925 loop_end=467690
+<region> sample=Snappy noisy triangle80955359-87QH.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=240778 loop_end=354420
+<region> sample=Snappy noisy triangle116038-P3L2.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=402904 loop_end=521667
+<region> sample=Snappy noisy triangle17325359-8RKY.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=239105 loop_end=355148
+<region> sample=Snappy noisy triangle3348038-7AFY.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=387463 loop_end=551921
+<region> sample=Snappy noisy triangle49647480-KZNV.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=302984 loop_end=416343
+<region> sample=Snappy noisy triangle65797480-TIE4.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=345406 loop_end=458575
+<region> sample=Snappy noisy triangle1121278894-COE3.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=411507 loop_end=525855
+<region> sample=Snappy noisy triangle1121277480-ROHP.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=389935 loop_end=507840
+<region> sample=Snappy noisy triangle11212795127-TX8Y.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=300392 loop_end=414044
+<region> sample=Snappy noisy triangle80954652-28I9.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=122224 loop_end=236622
+<region> sample=Snappy noisy triangle65794652-7I0P.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=345063 loop_end=460339
+<region> sample=Snappy noisy triangle961116773-4DCT.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=214692 loop_end=329818
+<region> sample=Snappy noisy triangle1121275359-MK1G.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=84445 loop_end=200294
+<region> sample=Snappy noisy triangle49646773-07CY.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=83991 loop_end=210551
+<region> sample=Snappy noisy triangle80957480-GS0H.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=194690 loop_end=307917
+<region> sample=Snappy noisy triangle49648187-TOTN.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=261662 loop_end=379043
+<region> sample=Snappy noisy triangle33486066-J8IS.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=273193 loop_end=386874
+<region> sample=Snappy noisy triangle1166773-XQ0X.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=314144 loop_end=461656
+<region> sample=Snappy noisy triangle961115359-JO4S.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=77727 loop_end=192968
+<region> sample=Snappy noisy triangle33486773-2A6J.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=280198 loop_end=402695
+<region> sample=Snappy noisy triangle961113945-RZBJ.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=320530 loop_end=444654
+<region> sample=Snappy noisy triangle9611195127-FNAB.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=70191 loop_end=185261
+<region> sample=Snappy noisy triangle65795359-PQ3U.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=303867 loop_end=423694
+<region> sample=Snappy noisy triangle65796066-1K2S.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=431649 loop_end=547195
+<region> sample=Snappy noisy triangle65793945-0TB9.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=181658 loop_end=303643
+<region> sample=Snappy noisy triangle17327480-GVG1.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=232067 loop_end=347821
+<region> sample=Snappy noisy triangle1121278187-KR3X.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=318525 loop_end=437842
+<region> sample=Snappy noisy triangle17326773-ZXJG.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=329264 loop_end=469629
+<region> sample=Snappy noisy triangle33483945-68YY.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=384474 loop_end=501431
+<region> sample=Snappy noisy triangle961114652-520L.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=121267 loop_end=235352
+<region> sample=Snappy noisy triangle961117480-KOCQ.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=312280 loop_end=426745
+<region> sample=Snappy noisy triangle4964038-E387.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=382096 loop_end=496066
+<region> sample=Snappy noisy triangle8095038-1GGD.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=222509 loop_end=339883
+<region> sample=Snappy noisy triangle1165359-7BQW.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=80799 loop_end=197433
+<region> sample=Snappy noisy triangle1732038-L3KD.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=295123 loop_end=421861
+<region> sample=Snappy noisy triangle112127038-MKL6.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=303157 loop_end=427849
+<region> sample=Snappy noisy triangle1121274652-PDT8.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=62779 loop_end=176601
+<region> sample=Snappy noisy triangle1168894-NCI8.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=115242 loop_end=227527
+<region> sample=Snappy noisy triangle49644652-TUN6.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=278258 loop_end=399849
+<region> sample=Snappy noisy triangle80956773-4C3I.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=214570 loop_end=332380
+<region> sample=Snappy noisy triangle1164652-JPDY.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=360032 loop_end=479215
+<region> sample=Snappy noisy triangle17326066-1DOG.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=57948 loop_end=210842
+<region> sample=Snappy noisy triangle809595127-BUP3.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=429660 loop_end=544287
+<region> sample=Snappy noisy triangle49645359-NVYB.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=60943 loop_end=181381
+<region> sample=Snappy noisy triangle961118894-1AN4.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=149706 loop_end=277173
+<region> sample=Snappy noisy triangle96111038-91CV.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=84931 loop_end=209751
+<region> sample=Snappy noisy triangle1121276066-NHAK.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=75841 loop_end=200245
+<region> sample=Snappy noisy triangle33487480-XLKY.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=173147 loop_end=300624
+<region> sample=Snappy noisy triangle80956066-0Z8A.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=71904 loop_end=188697
+<region> sample=Snappy noisy triangle17328894-F8FP.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=324172 loop_end=442391
+<region> sample=Snappy noisy triangle49648894-QAOP.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=345830 loop_end=458932

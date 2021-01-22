@@ -1,0 +1,85 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - 2plpsqrmidres.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Session 1/Squares/2plpsqrmidres/
+
+<group> volume=12        // 2plpsqrmidres
+<region> sample=xp2016D0-21-JZKR.aif key=24 lokey=0 hikey=26  amp_veltrack=0 lovel=1 hivel=21 offset=447 end=668911 loop_mode=loop_continuous loop_start=243951 loop_end=508141
+<region> sample=xp2016D0-42-ZFK4.aif key=24 lokey=0 hikey=26  amp_veltrack=0 lovel=22 hivel=42 offset=458 end=673924 loop_mode=loop_continuous loop_start=292101 loop_end=432384
+<region> sample=xp2016D0-64-06ZF.aif key=24 lokey=0 hikey=26  amp_veltrack=0 lovel=43 hivel=64 offset=590 end=673900 loop_mode=loop_continuous loop_start=16949 loop_end=429621
+<region> sample=xp2016D0-85-ATY3.aif key=24 lokey=0 hikey=26  amp_veltrack=0 lovel=65 hivel=85 offset=498 end=671840 loop_mode=loop_continuous loop_start=128314 loop_end=543033
+<region> sample=xp2016D0-106-9TQW.aif key=24 lokey=0 hikey=26  amp_veltrack=0 lovel=86 hivel=106 offset=588 end=671732 loop_mode=loop_continuous loop_start=417200 loop_end=535995
+<region> sample=xp2016D0-127-UM5N.aif key=24 lokey=0 hikey=26  amp_veltrack=0 lovel=107 hivel=127 offset=442 end=670564 loop_mode=loop_continuous loop_start=165144 loop_end=297236
+<region> sample=xp2016G#0-21-4FVQ.aif key=30 lokey=27 hikey=32  amp_veltrack=0 lovel=1 hivel=21 offset=374 end=665854 loop_mode=loop_continuous loop_start=94595 loop_end=315779
+<region> sample=xp2016G#0-42-DSR6.aif key=30 lokey=27 hikey=32  amp_veltrack=0 lovel=22 hivel=42 offset=537 loop_mode=loop_continuous loop_start=320130 loop_end=545275
+<region> sample=xp2016G#0-64-FKOX.aif key=30 lokey=27 hikey=32  amp_veltrack=0 lovel=43 hivel=64 offset=388 end=665189 loop_mode=loop_continuous loop_start=5335 loop_end=549076
+<region> sample=xp2016G#0-85-Q7TN.aif key=30 lokey=27 hikey=32  amp_veltrack=0 lovel=65 hivel=85 offset=453 end=671831 loop_mode=loop_continuous loop_start=346520 loop_end=510356
+<region> sample=xp2016G#0-106-70YX.aif key=30 lokey=27 hikey=32  amp_veltrack=0 lovel=86 hivel=106 offset=630 end=669598 loop_mode=loop_continuous loop_start=43722 loop_end=509636
+<region> sample=xp2016G#0-127-5O87.aif key=30 lokey=27 hikey=32  amp_veltrack=0 lovel=107 hivel=127 offset=336 end=665265 loop_mode=loop_continuous loop_start=80419 loop_end=538151
+<region> sample=xp2016D1-21-E2JX.aif key=36 lokey=33 hikey=38  amp_veltrack=0 lovel=1 hivel=21 offset=433 end=665381 loop_mode=loop_continuous loop_start=19319 loop_end=433014
+<region> sample=xp2016D1-42-UFMZ.aif key=36 lokey=33 hikey=38  amp_veltrack=0 lovel=22 hivel=42 offset=529 end=665836 loop_mode=loop_continuous loop_start=6256 loop_end=250295
+<region> sample=xp2016D1-64-VZ81.aif key=36 lokey=33 hikey=38  amp_veltrack=0 lovel=43 hivel=64 offset=358 end=670297 loop_mode=loop_continuous loop_start=91340 loop_end=490386
+<region> sample=xp2016D1-85-T7Z7.aif key=36 lokey=33 hikey=38  amp_veltrack=0 lovel=65 hivel=85 offset=414 end=667844 loop_mode=loop_continuous loop_start=77768 loop_end=470986
+<region> sample=xp2016D1-106-5NFG.aif key=36 lokey=33 hikey=38  amp_veltrack=0 lovel=86 hivel=106 offset=653 end=665206 loop_mode=loop_continuous loop_start=133359 loop_end=248050
+<region> sample=xp2016D1-127-UXHU.aif key=36 lokey=33 hikey=38  amp_veltrack=0 lovel=107 hivel=127 offset=415 end=665136 loop_mode=loop_continuous loop_start=118992 loop_end=540879
+<region> sample=xp2016G#1-21-ODL6.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=1 hivel=21 offset=534 end=664913 loop_mode=loop_continuous loop_start=46655 loop_end=346665
+<region> sample=xp2016G#1-42-NUOE.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=22 hivel=42 offset=425 end=665961 loop_mode=loop_continuous loop_start=183567 loop_end=512267
+<region> sample=xp2016G#1-64-7XVZ.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=43 hivel=64 offset=530 end=664932 loop_mode=loop_continuous loop_start=134677 loop_end=449030
+<region> sample=xp2016G#1-85-3F91.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=65 hivel=85 offset=517 end=665795 loop_mode=loop_continuous loop_start=196196 loop_end=453220
+<region> sample=xp2016G#1-106-GB9O.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=86 hivel=106 offset=481 end=665026 loop_mode=loop_continuous loop_start=280146 loop_end=501327
+<region> sample=xp2016G#1-127-HPHO.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=107 hivel=127 offset=476 end=663230 loop_mode=loop_continuous loop_start=53599 loop_end=367010
+<region> sample=xp2016D2-21-5ERI.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=1 hivel=21 offset=406 end=665797 loop_mode=loop_continuous loop_start=207948 loop_end=479348
+<region> sample=xp2016D2-42-CZAK.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=22 hivel=42 offset=537 end=665212 loop_mode=loop_continuous loop_start=240768 loop_end=547947
+<region> sample=xp2016D2-64-A4PT.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=43 hivel=64 offset=554 end=662908 loop_mode=loop_continuous loop_start=236770 loop_end=508164
+<region> sample=xp2016D2-85-WQND.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=65 hivel=85 offset=534 end=665073 loop_mode=loop_continuous loop_start=153339 loop_end=446131
+<region> sample=xp2016D2-106-2HKZ.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=86 hivel=106 offset=491 end=665253 loop_mode=loop_continuous loop_start=130092 loop_end=415820
+<region> sample=xp2016D2-127-IDJX.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=107 hivel=127 offset=379 end=664653 loop_mode=loop_continuous loop_start=58640 loop_end=329399
+<region> sample=xp2016G#2-21-WZB1.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=1 hivel=21 offset=532 end=664812 loop_mode=loop_continuous loop_start=150156 loop_end=435849
+<region> sample=xp2016G#2-42-HGGN.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=22 hivel=42 offset=469 end=665336 loop_mode=loop_continuous loop_start=198962 loop_end=499011
+<region> sample=xp2016G#2-64-G4U4.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=43 hivel=64 offset=372 loop_mode=loop_continuous loop_start=253425 loop_end=539126
+<region> sample=xp2016G#2-85-SRHY.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=65 hivel=85 offset=579 loop_mode=loop_continuous loop_start=197105 loop_end=475592
+<region> sample=xp2016G#2-106-4IX2.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=86 hivel=106 offset=579 loop_mode=loop_continuous loop_start=218131 loop_end=496878
+<region> sample=xp2016G#2-127-UI05.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=107 hivel=127 offset=524 loop_mode=loop_continuous loop_start=177829 loop_end=470696
+<region> sample=xp2016D3-21-ZPE3.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=1 hivel=21 offset=466 loop_mode=loop_continuous loop_start=119165 loop_end=412039
+<region> sample=xp2016D3-42-985K.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=22 hivel=42 offset=527 end=664911 loop_mode=loop_continuous loop_start=263645 loop_end=549174
+<region> sample=xp2016D3-64-FC98.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=43 hivel=64 offset=346 loop_mode=loop_continuous loop_start=268652 loop_end=561521
+<region> sample=xp2016D3-85-IXJ1.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=65 hivel=85 offset=378 end=664697 loop_mode=loop_continuous loop_start=231152 loop_end=516891
+<region> sample=xp2016D3-106-9ND1.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=86 hivel=106 offset=514 end=665213 loop_mode=loop_continuous loop_start=69812 loop_end=355099
+<region> sample=xp2016D3-127-2HPR.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=107 hivel=127 offset=511 loop_mode=loop_continuous loop_start=194526 loop_end=480341
+<region> sample=xp2016G#3-21-XMZM.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=1 hivel=21 offset=362 end=664448 loop_mode=loop_continuous loop_start=5446 loop_end=291015
+<region> sample=xp2016G#3-42-DXKA.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=22 hivel=42 offset=583 loop_mode=loop_continuous loop_start=162203 loop_end=448325
+<region> sample=xp2016G#3-64-DDOV.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=43 hivel=64 offset=446 loop_mode=loop_continuous loop_start=276033 loop_end=561806
+<region> sample=xp2016G#3-85-AWWF.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=65 hivel=85 offset=502 loop_mode=loop_continuous loop_start=196226 loop_end=481805
+<region> sample=xp2016G#3-106-36N7.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=86 hivel=106 offset=574 loop_mode=loop_continuous loop_start=120043 loop_end=405747
+<region> sample=xp2016G#3-127-ZDFV.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=107 hivel=127 offset=436 end=663275 loop_mode=loop_continuous loop_start=52990 loop_end=345523
+<region> sample=xp2016D4-21-5KHK.aif key=72 lokey=69 hikey=74  amp_veltrack=0 lovel=1 hivel=21 offset=456 loop_mode=loop_continuous loop_start=170375 loop_end=455965
+<region> sample=xp2016D4-42-2L23.aif key=72 lokey=69 hikey=74  amp_veltrack=0 lovel=22 hivel=42 offset=471 end=663017 loop_mode=loop_continuous loop_start=5642 loop_end=291463
+<region> sample=xp2016D4-64-BO4G.aif key=72 lokey=69 hikey=74  amp_veltrack=0 lovel=43 hivel=64 offset=407 loop_mode=loop_continuous loop_start=180676 loop_end=473640
+<region> sample=xp2016D4-85-5SSV.aif key=72 lokey=69 hikey=74  amp_veltrack=0 lovel=65 hivel=85 offset=532 end=663420 loop_mode=loop_continuous loop_start=137790 loop_end=423553
+<region> sample=xp2016D4-106-RVCI.aif key=72 lokey=69 hikey=74  amp_veltrack=0 lovel=86 hivel=106 offset=521 end=663165 loop_mode=loop_continuous loop_start=247958 loop_end=533985
+<region> sample=xp2016D4-127-VX7U.aif key=72 lokey=69 hikey=74  amp_veltrack=0 lovel=107 hivel=127 offset=527 end=662502 loop_mode=loop_continuous loop_start=209740 loop_end=495892
+<region> sample=xp2016G#4-21-XNZD.aif key=78 lokey=75 hikey=80  amp_veltrack=0 lovel=1 hivel=21 offset=485 end=663292 loop_mode=loop_continuous loop_start=174522 loop_end=460196
+<region> sample=xp2016G#4-42-KKRV.aif key=78 lokey=75 hikey=80  amp_veltrack=0 lovel=22 hivel=42 offset=329 end=663646 loop_mode=loop_continuous loop_start=14697 loop_end=300410
+<region> sample=xp2016G#4-64-H114.aif key=78 lokey=75 hikey=80  amp_veltrack=0 lovel=43 hivel=64 offset=559 loop_mode=loop_continuous loop_start=261758 loop_end=554606
+<region> sample=xp2016G#4-85-JW6K.aif key=78 lokey=75 hikey=80  amp_veltrack=0 lovel=65 hivel=85 offset=404 end=664058 loop_mode=loop_continuous loop_start=34420 loop_end=320071
+<region> sample=xp2016G#4-106-DYPE.aif key=78 lokey=75 hikey=80  amp_veltrack=0 lovel=86 hivel=106 offset=534 end=663921 loop_mode=loop_continuous loop_start=243018 loop_end=528553
+<region> sample=xp2016G#4-127-7U2N.aif key=78 lokey=75 hikey=80  amp_veltrack=0 lovel=107 hivel=127 offset=450 end=664105 loop_mode=loop_continuous loop_start=245530 loop_end=538506
+<region> sample=xp2016D5-21-V6K7.aif key=84 lokey=81 hikey=86  amp_veltrack=0 lovel=1 hivel=21 offset=511 end=663394 loop_mode=loop_continuous loop_start=149862 loop_end=435598
+<region> sample=xp2016D5-42-G21W.aif key=84 lokey=81 hikey=86  amp_veltrack=0 lovel=22 hivel=42 offset=474 end=663029 loop_mode=loop_continuous loop_start=9325 loop_end=295329
+<region> sample=xp2016D5-64-HV7M.aif key=84 lokey=81 hikey=86  amp_veltrack=0 lovel=43 hivel=64 offset=392 end=662724 loop_mode=loop_continuous loop_start=202964 loop_end=488643
+<region> sample=xp2016D5-85-1N4A.aif key=84 lokey=81 hikey=86  amp_veltrack=0 lovel=65 hivel=85 offset=473 end=662324 loop_mode=loop_continuous loop_start=210823 loop_end=496539
+<region> sample=xp2016D5-106-1OJZ.aif key=84 lokey=81 hikey=86  amp_veltrack=0 lovel=86 hivel=106 offset=469 end=662328 loop_mode=loop_continuous loop_start=260325 loop_end=546160
+<region> sample=xp2016D5-127-9V7K.aif key=84 lokey=81 hikey=86  amp_veltrack=0 lovel=107 hivel=127 offset=560 loop_mode=loop_continuous loop_start=139354 loop_end=424964
+<region> sample=xp2016G#5-21-A643.aif key=90 lokey=87 hikey=92  amp_veltrack=0 lovel=1 hivel=21 offset=431 end=663278 loop_mode=loop_continuous loop_start=42863 loop_end=329112
+<region> sample=xp2016G#5-42-4983.aif key=90 lokey=87 hikey=92  amp_veltrack=0 lovel=22 hivel=42 offset=644 end=663526 loop_mode=loop_continuous loop_start=261759 loop_end=547514
+<region> sample=xp2016G#5-64-OI6W.aif key=90 lokey=87 hikey=92  amp_veltrack=0 lovel=43 hivel=64 offset=464 end=663657 loop_mode=loop_continuous loop_start=16234 loop_end=301889
+<region> sample=xp2016G#5-85-T96N.aif key=90 lokey=87 hikey=92  amp_veltrack=0 lovel=65 hivel=85 offset=382 end=662178 loop_mode=loop_continuous loop_start=177095 loop_end=462404
+<region> sample=xp2016G#5-106-YW31.aif key=90 lokey=87 hikey=92  amp_veltrack=0 lovel=86 hivel=106 offset=523 loop_mode=loop_continuous loop_start=214343 loop_end=500148
+<region> sample=xp2016G#5-127-LKSX.aif key=90 lokey=87 hikey=92  amp_veltrack=0 lovel=107 hivel=127 offset=439 loop_mode=loop_continuous loop_start=148845 loop_end=434576
+<region> sample=xp2016G8-21-0E8D.aif key=96 lokey=93 hikey=127  amp_veltrack=0 lovel=1 hivel=21 offset=445 end=663534 loop_mode=loop_continuous loop_start=259364 loop_end=545140
+<region> sample=xp2016G8-42-D3M8.aif key=96 lokey=93 hikey=127  amp_veltrack=0 lovel=22 hivel=42 offset=639 end=663408 loop_mode=loop_continuous loop_start=236117 loop_end=521840
+<region> sample=xp2016G8-64-QE68.aif key=96 lokey=93 hikey=127  amp_veltrack=0 lovel=43 hivel=64 offset=407 loop_mode=loop_continuous loop_start=214099 loop_end=500071
+<region> sample=xp2016G8-85-8XHB.aif key=96 lokey=93 hikey=127  amp_veltrack=0 lovel=65 hivel=85 offset=547 loop_mode=loop_continuous loop_start=276622 loop_end=561977
+<region> sample=xp2016G8-106-7RQO.aif key=96 lokey=93 hikey=127  amp_veltrack=0 lovel=86 hivel=106 offset=480 loop_mode=loop_continuous loop_start=243778 loop_end=529557
+<region> sample=xp2016G8-127-0U48.aif key=96 lokey=93 hikey=127  amp_veltrack=0 lovel=107 hivel=127 offset=461 loop_mode=loop_continuous loop_start=69323 loop_end=355047

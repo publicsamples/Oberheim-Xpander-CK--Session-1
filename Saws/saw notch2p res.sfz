@@ -1,0 +1,55 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - saw notch2p res.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Session 1/Saws/saw notch2p res/
+
+<group>        // Group
+<region> sample=sawnotch2pres57-D3 80-95.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=82121 loop_end=198855
+<region> sample=sawnotch2pres63-G#3 17-32.aif key=66 lokey=63 hikey=127  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=65663 loop_end=181235
+<region> sample=sawnotch2pres63-G#3 1-16.aif key=66 lokey=63 hikey=127  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=124987 loop_end=238844
+<region> sample=sawnotch2pres39-G#1 33-48.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=129029 loop_end=293904
+<region> sample=sawnotch2pres0-D1 49-64.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=351883 loop_end=563845
+<region> sample=sawnotch2pres57-D3 49-64.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=201406 loop_end=340645
+<region> sample=sawnotch2pres51-G#2 17-32.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=25167 loop_end=141955
+<region> sample=sawnotch2pres57-D3 112-127.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=65708 loop_end=185159
+<region> sample=sawnotch2pres0-D1 33-48.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=97020 loop_end=236287
+<region> sample=sawnotch2pres0-D1 112-127.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=223542 loop_end=469299
+<region> sample=sawnotch2pres45-D2 112-127.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=105464 loop_end=227005
+<region> sample=sawnotch2pres63-G#3 112-127.aif key=66 lokey=63 hikey=127  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=80146 loop_end=199899
+<region> sample=sawnotch2pres39-G#1 112-127.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=286857 loop_end=428176
+<region> sample=sawnotch2pres51-G#2 33-48.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=327257 loop_end=446029
+<region> sample=sawnotch2pres0-D1 96-111.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=288180 loop_end=520636
+<region> sample=sawnotch2pres57-D3 17-32.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=82469 loop_end=197407
+<region> sample=sawnotch2pres39-G#1 96-111.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=355455 loop_end=496778
+<region> sample=sawnotch2pres57-D3 96-111.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=263831 loop_end=381250
+<region> sample=sawnotch2pres51-G#2 49-64.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=120905 loop_end=252005
+<region> sample=sawnotch2pres63-G#3 80-95.aif key=66 lokey=63 hikey=127  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=199433 loop_end=318238
+<region> sample=sawnotch2pres45-D2 49-64.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=278575 loop_end=412721
+<region> sample=sawnotch2pres57-D3 65-79.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=58618 loop_end=239259
+<region> sample=sawnotch2pres63-G#3 65-79.aif key=66 lokey=63 hikey=127  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=40522 loop_end=209743
+<region> sample=sawnotch2pres63-G#3 49-64.aif key=66 lokey=63 hikey=127  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=28505 loop_end=148577
+<region> sample=sawnotch2pres45-D2 33-48.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=225925 loop_end=355986
+<region> sample=sawnotch2pres0-D1 80-95.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=329656 loop_end=456651
+<region> sample=sawnotch2pres0-D1 65-79.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=251885 loop_end=528362
+<region> sample=sawnotch2pres51-G#2 112-127.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=284691 loop_end=439310
+<region> sample=sawnotch2pres39-G#1 65-79.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=190547 loop_end=453563
+<region> sample=sawnotch2pres39-G#1 49-64.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=172146 loop_end=453599
+<region> sample=sawnotch2pres45-D2 80-95.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=288047 loop_end=440607
+<region> sample=sawnotch2pres63-G#3 96-111.aif key=66 lokey=63 hikey=127  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=53382 loop_end=172181
+<region> sample=sawnotch2pres51-G#2 80-95.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=225401 loop_end=352374
+<region> sample=sawnotch2pres0-D1 1-16.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=17903 loop_end=155444
+<region> sample=sawnotch2pres0-D1 17-32.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=376597 loop_end=495363
+<region> sample=sawnotch2pres51-G#2 1-16.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=36924 loop_end=153688
+<region> sample=sawnotch2pres57-D3 33-48.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=264984 loop_end=380564
+<region> sample=sawnotch2pres39-G#1 17-32.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=15267 loop_end=153553
+<region> sample=sawnotch2pres39-G#1 1-16.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=18601 loop_end=159914
+<region> sample=sawnotch2pres45-D2 1-16.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=10706 loop_end=140760
+<region> sample=sawnotch2pres45-D2 65-79.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=258323 loop_end=373022
+<region> sample=sawnotch2pres51-G#2 65-79.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=16488 loop_end=197575
+<region> sample=sawnotch2pres45-D2 17-32.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=57512 loop_end=172172
+<region> sample=sawnotch2pres63-G#3 33-48.aif key=66 lokey=63 hikey=127  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=14072 loop_end=132714
+<region> sample=sawnotch2pres51-G#2 96-111.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=107142 loop_end=234124
+<region> sample=sawnotch2pres57-D3 1-16.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=70198 loop_end=184846
+<region> sample=sawnotch2pres39-G#1 80-95.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=176108 loop_end=359403
+<region> sample=sawnotch2pres45-D2 96-111.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=256493 loop_end=380729

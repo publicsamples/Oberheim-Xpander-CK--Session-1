@@ -1,0 +1,55 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - square bp2p res.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Session 1/Squares/square bp2p res/
+
+<group>        // Group
+<region> sample=sqrbp2pres63-G#3 49-64.aif key=66 lokey=63 hikey=127  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=4338 loop_end=122495
+<region> sample=sqrbp2pres39-G#1 80-95.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=381339 loop_end=564620
+<region> sample=sqrbp2pres0-D1 96-111.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=281893 loop_end=446770
+<region> sample=sqrbp2pres51-G#2 1-16.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=14942 loop_end=129785
+<region> sample=sqrbp2pres51-G#2 96-111.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=279945 loop_end=406922
+<region> sample=sqrbp2pres45-D2 1-16.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=350008 loop_end=465104
+<region> sample=sqrbp2pres39-G#1 65-79.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=349348 loop_end=472258
+<region> sample=sqrbp2pres45-D2 65-79.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=72124 loop_end=185519
+<region> sample=sqrbp2pres63-G#3 33-48.aif key=66 lokey=63 hikey=127  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=3585 loop_end=118868
+<region> sample=sqrbp2pres51-G#2 33-48.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=435411 loop_end=558945
+<region> sample=sqrbp2pres0-D1 33-48.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=84098 loop_end=464004
+<region> sample=sqrbp2pres51-G#2 65-79.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=5481 loop_end=119373
+<region> sample=sqrbp2pres57-D3 112-127.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=181328 loop_end=295366
+<region> sample=sqrbp2pres0-D1 49-64.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=446537 loop_end=565330
+<region> sample=sqrbp2pres57-D3 33-48.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=190866 loop_end=304418
+<region> sample=sqrbp2pres39-G#1 33-48.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=6294 loop_end=130181
+<region> sample=sqrbp2pres0-D1 112-127.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=251074 loop_end=526528
+<region> sample=sqrbp2pres39-G#1 49-64.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=65575 loop_end=185773
+<region> sample=sqrbp2pres57-D3 17-32.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=34653 loop_end=148232
+<region> sample=sqrbp2pres39-G#1 96-111.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=155322 loop_end=296632
+<region> sample=sqrbp2pres0-D1 1-16.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=104272 loop_end=264716
+<region> sample=sqrbp2pres63-G#3 80-95.aif key=66 lokey=63 hikey=127  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=268890 loop_end=387681
+<region> sample=sqrbp2pres39-G#1 17-32.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=84536 loop_end=200873
+<region> sample=sqrbp2pres45-D2 33-48.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=133119 loop_end=251029
+<region> sample=sqrbp2pres45-D2 80-95.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=100907 loop_end=219701
+<region> sample=sqrbp2pres63-G#3 112-127.aif key=66 lokey=63 hikey=127  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=196850 loop_end=315157
+<region> sample=sqrbp2pres0-D1 17-32.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=99129 loop_end=217883
+<region> sample=sqrbp2pres45-D2 112-127.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=276794 loop_end=399673
+<region> sample=sqrbp2pres51-G#2 80-95.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=14449 loop_end=169078
+<region> sample=sqrbp2pres45-D2 49-64.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=44176 loop_end=160777
+<region> sample=sqrbp2pres0-D1 80-95.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=393377 loop_end=520359
+<region> sample=sqrbp2pres51-G#2 49-64.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=59000 loop_end=177694
+<region> sample=sqrbp2pres57-D3 49-64.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=57621 loop_end=172574
+<region> sample=sqrbp2pres51-G#2 112-127.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=179279 loop_end=318621
+<region> sample=sqrbp2pres51-G#2 17-32.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=51578 loop_end=170262
+<region> sample=sqrbp2pres39-G#1 112-127.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=111236 loop_end=252540
+<region> sample=sqrbp2pres63-G#3 96-111.aif key=66 lokey=63 hikey=127  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=442137 loop_end=561876
+<region> sample=sqrbp2pres45-D2 17-32.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=43706 loop_end=159041
+<region> sample=sqrbp2pres39-G#1 1-16.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=16793 loop_end=131364
+<region> sample=sqrbp2pres57-D3 1-16.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=1347 loop_end=113966
+<region> sample=sqrbp2pres45-D2 96-111.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=242866 loop_end=365737
+<region> sample=sqrbp2pres63-G#3 1-16.aif key=66 lokey=63 hikey=127  amp_veltrack=0 lovel=0 hivel=16 loop_mode=loop_continuous loop_start=1304 loop_end=115625
+<region> sample=sqrbp2pres63-G#3 17-32.aif key=66 lokey=63 hikey=127  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=1390 loop_end=114087
+<region> sample=sqrbp2pres57-D3 65-79.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=28773 loop_end=142990
+<region> sample=sqrbp2pres63-G#3 65-79.aif key=66 lokey=63 hikey=127  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=56846 loop_end=216032
+<region> sample=sqrbp2pres57-D3 80-95.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=81219 loop_end=199299
+<region> sample=sqrbp2pres0-D1 65-79.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=209556 loop_end=372731
+<region> sample=sqrbp2pres57-D3 96-111.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=446155 loop_end=563566

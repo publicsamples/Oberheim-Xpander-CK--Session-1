@@ -1,0 +1,87 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - 4 pole saw vel.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Session 1/Saws/4 pole saw vel/
+
+<group>        // 4 pole saw vel
+<region> sample=4 pole saw vel116038-K2WH.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=1 hivel=16 offset=544 end=708773 loop_mode=loop_continuous loop_start=214806 loop_end=580243
+<region> sample=4 pole saw vel1732038-EAN4.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=17 hivel=32 offset=389 loop_mode=loop_continuous loop_start=7715 loop_end=338404
+<region> sample=4 pole saw vel3348038-9UZZ.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=33 hivel=48 offset=713 end=705663 loop_mode=loop_continuous loop_start=101155 loop_end=414449
+<region> sample=4 pole saw vel4964038-405A.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=49 hivel=64 offset=725 end=705602 loop_mode=loop_continuous loop_start=87526 loop_end=205302
+<region> sample=4 pole saw vel6579038-MRJZ.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=65 hivel=79 offset=587 end=705287 loop_mode=loop_continuous loop_start=117750 loop_end=415745
+<region> sample=4 pole saw vel8095038-LGTS.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=80 hivel=95 offset=683 end=704425 loop_mode=loop_continuous loop_start=129778 loop_end=397049
+<region> sample=4 pole saw vel96111038-3KVS.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=96 hivel=111 offset=327 end=708460 loop_mode=loop_continuous loop_start=155865 loop_end=560285
+<region> sample=4 pole saw vel112127#1242A28.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=112 hivel=127 offset=396 end=701948 loop_mode=loop_continuous loop_start=171510 loop_end=527762
+<region> sample=4 pole saw vel1163945-RGB8.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=1 hivel=16 offset=397 end=706079 loop_mode=loop_continuous loop_start=308862 loop_end=516821
+<region> sample=4 pole saw vel17323945-IG88.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=17 hivel=32 offset=712 loop_mode=loop_continuous loop_start=153413 loop_end=586497
+<region> sample=4 pole saw vel33483945-2JJS.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=33 hivel=48 offset=621 end=704180 loop_mode=loop_continuous loop_start=324352 loop_end=531178
+<region> sample=4 pole saw vel49643945-PLIQ.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=49 hivel=64 offset=429 loop_mode=loop_continuous loop_start=106837 loop_end=291338
+<region> sample=4 pole saw vel65793945-WVPY.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=65 hivel=79 offset=556 end=709152 loop_mode=loop_continuous loop_start=5821 loop_end=530865
+<region> sample=4 pole saw vel80953945-LPQS.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=80 hivel=95 offset=804 end=702950 loop_mode=loop_continuous loop_start=959 loop_end=452648
+<region> sample=4 pole saw vel961113#1242A72.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=96 hivel=111 offset=837 end=704003 loop_mode=loop_continuous loop_start=140242 loop_end=551679
+<region> sample=4 pole saw vel112127#1242A76.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=112 hivel=127 offset=791 end=705280 loop_mode=loop_continuous loop_start=2327 loop_end=443472
+<region> sample=4 pole saw vel1164652-LFKS.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=1 hivel=16 offset=888 end=701529 loop_mode=loop_continuous loop_start=98134 loop_end=226589
+<region> sample=4 pole saw vel17324652-GOHV.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=17 hivel=32 offset=708 end=704465 loop_mode=loop_continuous loop_start=82090 loop_end=336116
+<region> sample=4 pole saw vel33484652-8RCG.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=33 hivel=48 offset=765 loop_mode=loop_continuous loop_start=127836 loop_end=295854
+<region> sample=4 pole saw vel49644652-WOD6.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=49 hivel=64 offset=498 end=701711 loop_mode=loop_continuous loop_start=400209 loop_end=538334
+<region> sample=4 pole saw vel65794652-AR95.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=65 hivel=79 offset=675 end=705829 loop_mode=loop_continuous loop_start=310099 loop_end=450648
+<region> sample=4 pole saw vel80954652-79Z9.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=80 hivel=95 offset=641 end=704418 loop_mode=loop_continuous loop_start=174425 loop_end=387973
+<region> sample=4 pole saw vel961114#1242AA3.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=96 hivel=111 offset=438 loop_mode=loop_continuous loop_start=72741 loop_end=204786
+<region> sample=4 pole saw vel112127#1242AAC.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=112 hivel=127 offset=399 loop_mode=loop_continuous loop_start=53036 loop_end=176757
+<region> sample=4 pole saw vel1165359-6KC6.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=1 hivel=16 offset=399 loop_mode=loop_continuous loop_start=128644 loop_end=346876
+<region> sample=4 pole saw vel17325359-PRNO.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=17 hivel=32 offset=578 end=698503 loop_mode=loop_continuous loop_start=14112 loop_end=204424
+<region> sample=4 pole saw vel33485359-XOS2.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=33 hivel=48 offset=725 loop_mode=loop_continuous loop_start=153679 loop_end=334802
+<region> sample=4 pole saw vel49645359-S7V8.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=49 hivel=64 offset=717 end=702662 loop_mode=loop_continuous loop_start=170014 loop_end=294916
+<region> sample=4 pole saw vel65795359-K8KP.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=65 hivel=79 offset=617 end=703746 loop_mode=loop_continuous loop_start=385095 loop_end=561341
+<region> sample=4 pole saw vel80955359-QIUF.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=80 hivel=95 offset=603 loop_mode=loop_continuous loop_start=227024 loop_end=412511
+<region> sample=4 pole saw vel961115#1242AE3.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=96 hivel=111 offset=764 loop_mode=loop_continuous loop_start=41881 loop_end=369024
+<region> sample=4 pole saw vel112127#1242AEB.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=112 hivel=127 offset=729 end=703905 loop_mode=loop_continuous loop_start=50182 loop_end=239694
+<region> sample=4 pole saw vel1166066-SIAQ.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=1 hivel=16 offset=410 end=701603 loop_mode=loop_continuous loop_start=673 loop_end=122352
+<region> sample=4 pole saw vel17326066-341S.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=17 hivel=32 offset=493 end=694622 loop_mode=loop_continuous loop_start=224822 loop_end=376371
+<region> sample=4 pole saw vel33486066-U6AG.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=33 hivel=48 offset=631 end=702852 loop_mode=loop_continuous loop_start=1149 loop_end=121731
+<region> sample=4 pole saw vel49646066-J5G0.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=49 hivel=64 offset=310 end=701869 loop_mode=loop_continuous loop_start=420355 loop_end=545229
+<region> sample=4 pole saw vel65796066-ACHF.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=65 hivel=79 offset=654 loop_mode=loop_continuous loop_start=322364 loop_end=533530
+<region> sample=4 pole saw vel80956066-Q3ON.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=80 hivel=95 offset=800 loop_mode=loop_continuous loop_start=275520 loop_end=400394
+<region> sample=4 pole saw vel961116#1242B1D.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=96 hivel=111 offset=540 end=704409 loop_mode=loop_continuous loop_start=53409 loop_end=236844
+<region> sample=4 pole saw vel112127#1242B20.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=112 hivel=127 offset=412 loop_mode=loop_continuous loop_start=380740 loop_end=532289
+<region> sample=4 pole saw vel1166773-E8T9.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=1 hivel=16 offset=223 loop_mode=loop_continuous loop_start=640 loop_end=203016
+<region> sample=4 pole saw vel17326773-0A4W.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=17 hivel=32 offset=855 loop_mode=loop_continuous loop_start=55218 loop_end=183175
+<region> sample=4 pole saw vel33486773-E5F0.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=33 hivel=48 offset=300 loop_mode=loop_continuous loop_start=434169 loop_end=562295
+<region> sample=4 pole saw vel49646773-KHZI.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=49 hivel=64 offset=669 end=703977 loop_mode=loop_continuous loop_start=160292 loop_end=330524
+<region> sample=4 pole saw vel65796773-4NOJ.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=65 hivel=79 offset=282 end=703656 loop_mode=loop_continuous loop_start=213704 loop_end=366500
+<region> sample=4 pole saw vel80956773-FER4.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=80 hivel=95 offset=656 end=704454 loop_mode=loop_continuous loop_start=148565 loop_end=331800
+<region> sample=4 pole saw vel961116#1242B57.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=96 hivel=111 offset=749 loop_mode=loop_continuous loop_start=387151 loop_end=508145
+<region> sample=4 pole saw vel112127#1242B61.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=112 hivel=127 offset=707 end=704459 loop_mode=loop_continuous loop_start=201930 loop_end=328105
+<region> sample=4 pole saw vel1167480-4AK1.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=1 hivel=16 offset=557 loop_mode=loop_continuous loop_start=251316 loop_end=400912
+<region> sample=4 pole saw vel17327480-R6JT.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=17 hivel=32 offset=640 end=684039 loop_mode=loop_continuous loop_start=887 loop_end=162645
+<region> sample=4 pole saw vel33487480-N7KT.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=33 hivel=48 offset=756 end=688922 loop_mode=loop_continuous loop_start=173853 loop_end=307019
+<region> sample=4 pole saw vel49647480-P2IY.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=49 hivel=64 offset=384 loop_mode=loop_continuous loop_start=159023 loop_end=302417
+<region> sample=4 pole saw vel65797480-Q6L1.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=65 hivel=79 offset=301 loop_mode=loop_continuous loop_start=260945 loop_end=397443
+<region> sample=4 pole saw vel80957480-2OF0.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=80 hivel=95 offset=551 loop_mode=loop_continuous loop_start=231593 loop_end=376063
+<region> sample=4 pole saw vel961117#1242B99.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=96 hivel=111 offset=809 end=709166 loop_mode=loop_continuous loop_start=37425 loop_end=212516
+<region> sample=4 pole saw vel112127#1242B9D.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=112 hivel=127 offset=749 end=702988 loop_mode=loop_continuous loop_start=392633 loop_end=550470
+<region> sample=4 pole saw vel1168187-YVOH.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=1 hivel=16 offset=315 end=668301 loop_mode=loop_continuous loop_start=204292 loop_end=332130
+<region> sample=4 pole saw vel17328187-HD6S.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=17 hivel=32 offset=423 loop_mode=loop_continuous loop_start=546 loop_end=388550
+<region> sample=4 pole saw vel33488187-EFU2.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=33 hivel=48 offset=440 loop_mode=loop_continuous loop_start=681 loop_end=258363
+<region> sample=4 pole saw vel49648187-FMRU.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=49 hivel=64 offset=708 end=686644 loop_mode=loop_continuous loop_start=249715 loop_end=366339
+<region> sample=4 pole saw vel65798187-V2RL.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=65 hivel=79 offset=373 end=710251 loop_mode=loop_continuous loop_start=114978 loop_end=267469
+<region> sample=4 pole saw vel80958187-CRHZ.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=80 hivel=95 offset=424 end=702597 loop_mode=loop_continuous loop_start=39721 loop_end=181163
+<region> sample=4 pole saw vel961118#1242BEA.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=96 hivel=111 offset=646 end=705066 loop_mode=loop_continuous loop_start=323396 loop_end=449329
+<region> sample=4 pole saw vel112127#1242BF2.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=112 hivel=127 offset=669 end=705242 loop_mode=loop_continuous loop_start=22708 loop_end=211034
+<region> sample=4 pole saw vel1168894-WBFM.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=1 hivel=16 offset=711 loop_mode=loop_continuous loop_start=227152 loop_end=521183
+<region> sample=4 pole saw vel17328894-RA67.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=17 hivel=32 offset=577 loop_mode=loop_continuous loop_start=283600 loop_end=411591
+<region> sample=4 pole saw vel33488894-WXQ3.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=33 hivel=48 offset=400 loop_mode=loop_continuous loop_start=95259 loop_end=234571
+<region> sample=4 pole saw vel49648894-TC9X.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=49 hivel=64 offset=605 loop_mode=loop_continuous loop_start=294142 loop_end=418046
+<region> sample=4 pole saw vel65798894-5L61.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=65 hivel=79 offset=363 end=703680 loop_mode=loop_continuous loop_start=57336 loop_end=177275
+<region> sample=4 pole saw vel80958894-118T.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=80 hivel=95 offset=396 end=703386 loop_mode=loop_continuous loop_start=370992 loop_end=495903
+<region> sample=4 pole saw vel961118#1242C24.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=96 hivel=111 offset=463 end=703772 loop_mode=loop_continuous loop_start=171304 loop_end=342351
+<region> sample=4 pole saw vel112127#1242C2A.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=112 hivel=127 offset=767 loop_mode=loop_continuous loop_start=89188 loop_end=225412
+<region> sample=4 pole saw vel11695127-R6EJ.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=1 hivel=16 offset=568 loop_mode=loop_continuous loop_start=97032 loop_end=220994
+<region> sample=4 pole saw vel173295#1242C3A.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=17 hivel=32 offset=777 end=664257 loop_mode=loop_continuous loop_start=306849 loop_end=464607
+<region> sample=4 pole saw vel334895#1242C42.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=33 hivel=48 offset=806 end=668843 loop_mode=loop_continuous loop_start=216694 loop_end=412185
+<region> sample=4 pole saw vel496495#1242C47.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=49 hivel=64 offset=364 end=678894 loop_mode=loop_continuous loop_start=506 loop_end=233127
+<region> sample=4 pole saw vel657995#1242C4F.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=65 hivel=79 offset=397 end=694108 loop_mode=loop_continuous loop_start=164607 loop_end=298675
+<region> sample=4 pole saw vel809595#1242C54.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=80 hivel=95 offset=727 end=703751 loop_mode=loop_continuous loop_start=404765 loop_end=576757
+<region> sample=4 pole saw vel961119#1242C5D.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=96 hivel=111 offset=760 loop_mode=loop_continuous loop_start=212959 loop_end=383961
+<region> sample=4 pole saw vel112127#1242C64.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=112 hivel=127 offset=365 end=703634 loop_mode=loop_continuous loop_start=357237 loop_end=506774

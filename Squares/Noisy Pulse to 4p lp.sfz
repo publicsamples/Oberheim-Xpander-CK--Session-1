@@ -1,0 +1,87 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Noisy Pulse to 4p lp.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Session 1/Squares/Noisy Pulse to 4p lp/Noisy Pulse to 4p lp/
+
+<group>        // Group
+<region> sample=Noisy Pulse to 4p lp65794652-J2OD.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=101452 loop_end=217024
+<region> sample=Noisy Pulse to 4p lp17326773-17S7.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=221310 loop_end=340265
+<region> sample=Noisy Pulse to 4p lp3348038-Y9G8.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=3863 loop_end=134609
+<region> sample=Noisy Pulse to 4p lp173295127-WEE3.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=431957 loop_end=555792
+<region> sample=Noisy Pulse to 4p lp17324652-YWI5.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=444 loop_end=140985
+<region> sample=Noisy Pulse to 4p lp1121278187-T30W.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=222312 loop_end=356218
+<region> sample=Noisy Pulse to 4p lp1121276066-Y91L.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=3776 loop_end=122833
+<region> sample=Noisy Pulse to 4p lp17328187-BLGM.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=766 loop_end=122113
+<region> sample=Noisy Pulse to 4p lp65796773-YUCN.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=69786 loop_end=185092
+<region> sample=Noisy Pulse to 4p lp657995127-ROYU.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=175731 loop_end=289616
+<region> sample=Noisy Pulse to 4p lp961115359-ZYOE.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=40295 loop_end=158128
+<region> sample=Noisy Pulse to 4p lp49643945-6QHK.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=15144 loop_end=137102
+<region> sample=Noisy Pulse to 4p lp49648187-6BY7.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=128508 loop_end=246759
+<region> sample=Noisy Pulse to 4p lp33484652-5U9O.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=35703 loop_end=152810
+<region> sample=Noisy Pulse to 4p lp1165359-8700.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=49832 loop_end=162451
+<region> sample=Noisy Pulse to 4p lp1168894-3I51.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=23468 loop_end=151857
+<region> sample=Noisy Pulse to 4p lp11212795127-B223.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=120276 loop_end=240581
+<region> sample=Noisy Pulse to 4p lp33483945-IZ49.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=429300 loop_end=543119
+<region> sample=Noisy Pulse to 4p lp49646066-IA5Z.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=78931 loop_end=203049
+<region> sample=Noisy Pulse to 4p lp17328894-IT62.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=140484 loop_end=253183
+<region> sample=Noisy Pulse to 4p lp961114652-HFHX.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=272887 loop_end=393576
+<region> sample=Noisy Pulse to 4p lp809595127-NBAM.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=302405 loop_end=425819
+<region> sample=Noisy Pulse to 4p lp1164652-CZFB.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=904 loop_end=178035
+<region> sample=Noisy Pulse to 4p lp961116066-HGOA.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=366891 loop_end=482978
+<region> sample=Noisy Pulse to 4p lp65793945-8JQS.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=358796 loop_end=479416
+<region> sample=Noisy Pulse to 4p lp1121273945-0H2B.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=253268 loop_end=380596
+<region> sample=Noisy Pulse to 4p lp112127038-VXIY.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=394572 loop_end=508483
+<region> sample=Noisy Pulse to 4p lp17323945-EKMF.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=979 loop_end=336628
+<region> sample=Noisy Pulse to 4p lp49645359-IE3A.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=316978 loop_end=430811
+<region> sample=Noisy Pulse to 4p lp1121276773-7U1S.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=439760 loop_end=557817
+<region> sample=Noisy Pulse to 4p lp116038-1J93.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=44947 loop_end=161675
+<region> sample=Noisy Pulse to 4p lp49647480-EWCA.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=213512 loop_end=330260
+<region> sample=Noisy Pulse to 4p lp49646773-LOWD.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=323506 loop_end=437479
+<region> sample=Noisy Pulse to 4p lp1732038-BCUJ.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=373368 loop_end=485276
+<region> sample=Noisy Pulse to 4p lp11695127-93D6.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=354288 loop_end=471692
+<region> sample=Noisy Pulse to 4p lp961113945-QVST.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=326974 loop_end=441656
+<region> sample=Noisy Pulse to 4p lp80954652-QLDL.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=381890 loop_end=494180
+<region> sample=Noisy Pulse to 4p lp80956066-QOWQ.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=250370 loop_end=371438
+<region> sample=Noisy Pulse to 4p lp33488187-KAP3.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=66635 loop_end=187247
+<region> sample=Noisy Pulse to 4p lp33486773-BZ1R.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=186266 loop_end=300375
+<region> sample=Noisy Pulse to 4p lp334895127-S6U3.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=104045 loop_end=217976
+<region> sample=Noisy Pulse to 4p lp17327480-30I4.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=182224 loop_end=299042
+<region> sample=Noisy Pulse to 4p lp1121277480-QUBM.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=148187 loop_end=263279
+<region> sample=Noisy Pulse to 4p lp6579038-DHGS.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=122877 loop_end=237487
+<region> sample=Noisy Pulse to 4p lp1121278894-F0C0.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=212932 loop_end=327407
+<region> sample=Noisy Pulse to 4p lp33487480-NBFW.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=16747 loop_end=146723
+<region> sample=Noisy Pulse to 4p lp1167480-K670.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=232246 loop_end=346110
+<region> sample=Noisy Pulse to 4p lp961118894-0NNE.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=214821 loop_end=336693
+<region> sample=Noisy Pulse to 4p lp961117480-IESY.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=194173 loop_end=307855
+<region> sample=Noisy Pulse to 4p lp80957480-I95L.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=325297 loop_end=442628
+<region> sample=Noisy Pulse to 4p lp1166773-H6H0.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=262630 loop_end=384263
+<region> sample=Noisy Pulse to 4p lp33486066-KERX.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=418705 loop_end=539479
+<region> sample=Noisy Pulse to 4p lp65795359-IHV5.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=157388 loop_end=277016
+<region> sample=Noisy Pulse to 4p lp65797480-IIJZ.aif key=78 lokey=74 hikey=80  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=351754 loop_end=469033
+<region> sample=Noisy Pulse to 4p lp49644652-BGJ1.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=2022 loop_end=118512
+<region> sample=Noisy Pulse to 4p lp65798187-KOIC.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=220051 loop_end=349657
+<region> sample=Noisy Pulse to 4p lp1163945-NWZU.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=269055 loop_end=382391
+<region> sample=Noisy Pulse to 4p lp1166066-1WUJ.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=315886 loop_end=434120
+<region> sample=Noisy Pulse to 4p lp1121275359-O20F.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=144252 loop_end=257491
+<region> sample=Noisy Pulse to 4p lp80958894-EGNV.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=62930 loop_end=178987
+<region> sample=Noisy Pulse to 4p lp96111038-8J2L.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=77383 loop_end=212315
+<region> sample=Noisy Pulse to 4p lp9611195127-TI6V.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=15667 loop_end=131025
+<region> sample=Noisy Pulse to 4p lp961116773-PJOL.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=63002 loop_end=189547
+<region> sample=Noisy Pulse to 4p lp17326066-MBQ5.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=690 loop_end=160543
+<region> sample=Noisy Pulse to 4p lp961118187-0N36.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=289461 loop_end=416815
+<region> sample=Noisy Pulse to 4p lp49648894-RLSX.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=320936 loop_end=435988
+<region> sample=Noisy Pulse to 4p lp65798894-A7KO.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=398394 loop_end=514561
+<region> sample=Noisy Pulse to 4p lp1121274652-VJ56.aif key=50 lokey=46 hikey=52  amp_veltrack=0 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=225731 loop_end=340147
+<region> sample=Noisy Pulse to 4p lp17325359-J6HM.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=702 loop_end=151211
+<region> sample=Noisy Pulse to 4p lp80956773-V0W0.aif key=71 lokey=67 hikey=73  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=350622 loop_end=469319
+<region> sample=Noisy Pulse to 4p lp1168187-BE5C.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=99757 loop_end=217997
+<region> sample=Noisy Pulse to 4p lp33485359-KCSD.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=180829 loop_end=299862
+<region> sample=Noisy Pulse to 4p lp496495127-D47D.aif key=96 lokey=95 hikey=127  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=390169 loop_end=510587
+<region> sample=Noisy Pulse to 4p lp80955359-RJY9.aif key=57 lokey=53 hikey=59  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=276087 loop_end=403153
+<region> sample=Noisy Pulse to 4p lp8095038-VVBY.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=205601 loop_end=320269
+<region> sample=Noisy Pulse to 4p lp80958187-3DMP.aif key=85 lokey=81 hikey=87  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=215423 loop_end=328842
+<region> sample=Noisy Pulse to 4p lp4964038-F0C8.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=282666 loop_end=419549
+<region> sample=Noisy Pulse to 4p lp33488894-7UJP.aif key=92 lokey=88 hikey=94  amp_veltrack=0 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=374158 loop_end=493120
+<region> sample=Noisy Pulse to 4p lp65796066-WIBD.aif key=64 lokey=60 hikey=66  amp_veltrack=0 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=293299 loop_end=412583
+<region> sample=Noisy Pulse to 4p lp80953945-GLT9.aif key=43 lokey=39 hikey=45  amp_veltrack=0 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=381901 loop_end=508757

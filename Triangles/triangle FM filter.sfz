@@ -1,0 +1,63 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - triangle FM filter.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Session 1/Triangles/triangle FM filter/
+
+<group>        // triangle FM filter
+<region> sample=xpander-G#1-G#11-16-5A39.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=1 hivel=16 offset=487 end=705799 loop_mode=loop_continuous loop_start=56746 loop_end=198152
+<region> sample=xpander-G#2-G#2112-127-EQ84.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=112 hivel=127 offset=455 end=703909 loop_mode=loop_continuous loop_start=43691 loop_end=184974
+<region> sample=xpander-D1-D1112-127-WZHK.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=112 hivel=127 offset=409 end=703588 loop_mode=loop_continuous loop_start=34778 loop_end=221177
+<region> sample=xpander-G#1-G#133-48-UB10.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=33 hivel=48 offset=452 end=705880 loop_mode=loop_continuous loop_start=7153 loop_end=148470
+<region> sample=xpander-G#1-G#165-79-UYO8.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=65 hivel=79 offset=464 end=708744 loop_mode=loop_continuous loop_start=9806 loop_end=151166
+<region> sample=xpander-D2-D296-111-1F42.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=96 hivel=111 offset=327 end=703678 loop_mode=loop_continuous loop_start=115306 loop_end=275985
+<region> sample=xpander-D1-D11-16-4F2U.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=1 hivel=16 offset=411 end=708985 loop_mode=loop_continuous loop_start=27845 loop_end=163015
+<region> sample=xpander-D3-D365-79-UUYK.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=65 hivel=79 offset=529 end=709158 loop_mode=loop_continuous loop_start=3094 loop_end=138436
+<region> sample=xpander-G#1-G#1112-127-U1IJ.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=112 hivel=127 offset=325 end=705603 loop_mode=loop_continuous loop_start=66518 loop_end=202033
+<region> sample=xpander-D3-D317-32-C1V6.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=17 hivel=32 offset=400 end=706059 loop_mode=loop_continuous loop_start=80379 loop_end=222122
+<region> sample=xpander-D2-D217-32-U9TL.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=17 hivel=32 offset=432 end=706285 loop_mode=loop_continuous loop_start=193008 loop_end=334256
+<region> sample=xpander-G8-G849-64-DH6L.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=49 hivel=64 offset=461 end=704790 loop_mode=loop_continuous loop_start=1341 loop_end=134837
+<region> sample=xpander-D3-D3112-127-ZC4Y.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=112 hivel=127 offset=349 end=705426 loop_mode=loop_continuous loop_start=80117 loop_end=240759
+<region> sample=xpander-G#3-G#317-32-76R0.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=17 hivel=32 offset=447 end=704389 loop_mode=loop_continuous loop_start=18486 loop_end=153578
+<region> sample=xpander-G8-G865-79-81RA.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=65 hivel=79 offset=325 end=706393 loop_mode=loop_continuous loop_start=1174 loop_end=134816
+<region> sample=xpander-G#1-G#117-32-L8FE.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=17 hivel=32 offset=350 end=705752 loop_mode=loop_continuous loop_start=21088 loop_end=163318
+<region> sample=xpander-D1-D165-79-Z2B9.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=65 hivel=79 offset=383 end=706122 loop_mode=loop_continuous loop_start=147046 loop_end=307826
+<region> sample=xpander-G#1-G#180-95-5BNJ.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=80 hivel=95 offset=362 end=703718 loop_mode=loop_continuous loop_start=46055 loop_end=188304
+<region> sample=xpander-G#2-G#296-111-NBLX.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=96 hivel=111 offset=359 end=709326 loop_mode=loop_continuous loop_start=41779 loop_end=227987
+<region> sample=xpander-D3-D31-16-O0LW.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=1 hivel=16 offset=397 end=705726 loop_mode=loop_continuous loop_start=70452 loop_end=211889
+<region> sample=xpander-D1-D117-32-B9D7.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=17 hivel=32 offset=477 end=703688 loop_mode=loop_continuous loop_start=360131 loop_end=520870
+<region> sample=xpander-G#3-G#365-79-MS57.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=65 hivel=79 offset=370 end=706123 loop_mode=loop_continuous loop_start=1027 loop_end=134688
+<region> sample=xpander-G8-G817-32-W2YV.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=17 hivel=32 offset=389 end=703731 loop_mode=loop_continuous loop_start=2165 loop_end=137147
+<region> sample=xpander-D3-D396-111-A6X8.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=96 hivel=111 offset=354 end=705726 loop_mode=loop_continuous loop_start=38213 loop_end=173247
+<region> sample=xpander-D3-D349-64-P928.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=49 hivel=64 offset=439 end=706258 loop_mode=loop_continuous loop_start=69284 loop_end=204345
+<region> sample=xpander-G#1-G#149-64-42IA.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=49 hivel=64 offset=391 end=704597 loop_mode=loop_continuous loop_start=21981 loop_end=183603
+<region> sample=xpander-G8-G896-111-7IQL.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=96 hivel=111 offset=447 end=708847 loop_mode=loop_continuous loop_start=55547 loop_end=216343
+<region> sample=xpander-G#2-G#249-64-V9XQ.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=49 hivel=64 offset=449 end=705031 loop_mode=loop_continuous loop_start=3895 loop_end=145187
+<region> sample=xpander-D1-D196-111-XNHH.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=96 hivel=111 offset=328 end=709378 loop_mode=loop_continuous loop_start=167811 loop_end=470531
+<region> sample=xpander-G8-G833-48-KBVT.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=33 hivel=48 offset=314 end=707252 loop_mode=loop_continuous loop_start=37132 loop_end=172137
+<region> sample=xpander-G8-G8112-127-B4E3.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=112 hivel=127 offset=497 end=703290 loop_mode=loop_continuous loop_start=636 loop_end=162117
+<region> sample=xpander-G#1-G#196-111-RVID.aif key=42 lokey=39 hikey=44  amp_veltrack=0 lovel=96 hivel=111 offset=504 end=706888 loop_mode=loop_continuous loop_start=187946 loop_end=329366
+<region> sample=xpander-D1-D133-48-ISHM.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=33 hivel=48 offset=239 end=706107 loop_mode=loop_continuous loop_start=15391 loop_end=150602
+<region> sample=xpander-G#2-G#217-32-NDAD.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=17 hivel=32 offset=362 end=704999 loop_mode=loop_continuous loop_start=807 loop_end=141622
+<region> sample=xpander-G#2-G#280-95-8A8S.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=80 hivel=95 offset=470 end=704800 loop_mode=loop_continuous loop_start=1583 loop_end=142048
+<region> sample=xpander-G8-G81-16-5JR1.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=1 hivel=16 offset=412 end=709246 loop_mode=loop_continuous loop_start=82380 loop_end=217357
+<region> sample=xpander-D2-D265-79-GVWK.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=65 hivel=79 offset=526 end=704995 loop_mode=loop_continuous loop_start=128115 loop_end=250384
+<region> sample=xpander-D3-D333-48-G251.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=33 hivel=48 offset=309 end=705042 loop_mode=loop_continuous loop_start=1254 loop_end=135905
+<region> sample=xpander-G#3-G#396-111-E5EW.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=96 hivel=111 offset=493 end=704329 loop_mode=loop_continuous loop_start=45513 loop_end=180559
+<region> sample=xpander-D2-D21-16-6D8U.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=1 hivel=16 offset=339 end=704165 loop_mode=loop_continuous loop_start=9186 loop_end=150274
+<region> sample=xpander-G#2-G#233-48-MEB3.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=33 hivel=48 offset=408 end=705296 loop_mode=loop_continuous loop_start=738 loop_end=142100
+<region> sample=xpander-D2-D280-95-C6AY.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=80 hivel=95 offset=202 end=705018 loop_mode=loop_continuous loop_start=4106 loop_end=145831
+<region> sample=xpander-D2-D249-64-6SJ8.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=49 hivel=64 offset=478 end=703215 loop_mode=loop_continuous loop_start=106507 loop_end=228685
+<region> sample=xpander-D3-D380-95-WJ6K.aif key=60 lokey=57 hikey=62  amp_veltrack=0 lovel=80 hivel=95 offset=423 end=704481 loop_mode=loop_continuous loop_start=1736 loop_end=136039
+<region> sample=xpander-G#3-G#333-48-LJO3.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=33 hivel=48 offset=401 end=709255 loop_mode=loop_continuous loop_start=1131 loop_end=134992
+<region> sample=xpander-D1-D149-64-X9PB.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=49 hivel=64 offset=349 end=704464 loop_mode=loop_continuous loop_start=392703 loop_end=579053
+<region> sample=xpander-G8-G880-95-5MOI.aif key=72 lokey=69 hikey=127  amp_veltrack=0 lovel=80 hivel=95 offset=492 end=703796 loop_mode=loop_continuous loop_start=46513 loop_end=181681
+<region> sample=xpander-G#2-G#21-16-RWBP.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=1 hivel=16 offset=411 end=710394 loop_mode=loop_continuous loop_start=68113 loop_end=209432
+<region> sample=xpander-G#3-G#31-16-IELL.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=1 hivel=16 offset=390 end=706235 loop_mode=loop_continuous loop_start=3161 loop_end=138203
+<region> sample=xpander-G#3-G#380-95-2HEQ.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=80 hivel=95 offset=365 end=703714 loop_mode=loop_continuous loop_start=2303 loop_end=137364
+<region> sample=xpander-D2-D2112-127-LR5U.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=112 hivel=127 offset=531 end=704887 loop_mode=loop_continuous loop_start=15991 loop_end=157906
+<region> sample=xpander-G#3-G#3112-127-8SF7.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=112 hivel=127 offset=344 end=704340 loop_mode=loop_continuous loop_start=653 loop_end=207827
+<region> sample=xpander-D1-D180-95-R85T.aif key=36 lokey=0 hikey=38  amp_veltrack=0 lovel=80 hivel=95 offset=447 end=703791 loop_mode=loop_continuous loop_start=265895 loop_end=387731
+<region> sample=xpander-D2-D233-48-4ZXS.aif key=48 lokey=45 hikey=50  amp_veltrack=0 lovel=33 hivel=48 offset=393 end=708790 loop_mode=loop_continuous loop_start=24735 loop_end=166545
+<region> sample=xpander-G#3-G#349-64-GWBM.aif key=66 lokey=63 hikey=68  amp_veltrack=0 lovel=49 hivel=64 offset=382 end=703336 loop_mode=loop_continuous loop_start=9956 loop_end=144992
+<region> sample=xpander-G#2-G#265-79-OUBE.aif key=54 lokey=51 hikey=56  amp_veltrack=0 lovel=65 hivel=79 offset=447 end=704518 loop_mode=loop_continuous loop_start=3314 loop_end=144624
