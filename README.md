@@ -12,8 +12,14 @@ Various saw, square and triangle sounds recorded with the Xpander MOTU Ultralite
 -   **Approx Size:** 12GB
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Oberheim_Xpander)
 
-[![Demo Video](https://github.com/publicsamples/Oberheim-Xpander-CK--Session-1/raw/master/embed.png)
-](https://youtu.be/dgiAJXgHjgw)
+<div align="center">
+      <a href="https://youtu.be/dgiAJXgHjgw">
+     <img 
+      src="https://github.com/publicsamples/Oberheim-Xpander-CK--Session-1/raw/master/embed.png" 
+      alt="Video Demo" 
+      style="width:100%;">
+      </a>
+    </div>
 
 # Loading
 
