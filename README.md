@@ -15,8 +15,6 @@ Various saw, square and triangle sounds recorded with the Xpander MOTU Ultralite
 ![Sample library disks](https://github.com/publicsamples/Oberheim-Xpander-CK--Session-1/raw/master/embed.png)
 ](https://youtu.be/dgiAJXgHjgw)
 
-
-
 # Loading
 
 **Logic Sampler/EXS24**
