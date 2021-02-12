@@ -11,6 +11,7 @@ Various saw, square and triangle sounds recorded with the Xpander MOTU Ultralite
 -   **Formats:** EXS24, Kontakt
 -   **Approx Size:** 12GB
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Oberheim_Xpander)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/xp.html)
 
 # Loading
 
