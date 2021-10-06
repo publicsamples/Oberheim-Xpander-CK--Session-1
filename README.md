@@ -1,9 +1,5 @@
 # Oberheim Xpander CK: Session 1
  
-**This collection requires you to download the audio seperately**
-
-[Download Audio from Dropbox](https://www.dropbox.com/sh/kdk6avmpcbt82qz/AAB0czyW1CQ4wZ82_q3yfUBSa?dl=0)
-
 Various saw, square and triangle sounds recorded with the Xpander MOTU Ultralite MKIII and a Ramsa Console.
 
 -   **Waves**: 80
@@ -12,6 +8,9 @@ Various saw, square and triangle sounds recorded with the Xpander MOTU Ultralite
 -   **Approx Size:** 12GB
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Oberheim_Xpander)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/xp.html)
+
+**[Download Audio](https://github.com/publicsamples/Oberheim-Xpander-CK--Session-1/releases/tag/1.0)**
+
 
 <div align="center">
       <a href="https://youtu.be/dgiAJXgHjgw">
